@@ -35,6 +35,6 @@ Haystack has been battle-tested at scale by companies like Apple, Netflix, Nvidi
 👁️ Watch: 115
 🪪 License: Apache-2.0
 
-🧙🏽 Follow[The AI Engineer](https://www.linkedin.com/company/theaiengineer/)for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
+🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
