@@ -29,6 +29,6 @@ Whether you want to build custom NLP-powered apps 📱 or scale existing ones to
 👁️ Watch: 10
 🪪 License: MIT
 
-🧙🏽 Follow[The AI Engineer](https://www.linkedin.com/company/theaiengineer/)for daily insights tailored to AI engineers. We are the AI community for hackers!
+🧙🏽 Follow[The AI Engineer](https://www.linkedin.com/company/theaiengineer/)for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
