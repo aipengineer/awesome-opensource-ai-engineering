@@ -7,7 +7,7 @@ Axflow is a modular TypeScript framework for building robust AI apps. Includes R
 ## Description
 Axflow is an open-source TypeScript framework for building robust natural language AI applications. It provides developers with a modular, code-first approach to seamlessly leverage large language models (LLMs).
 
-## Key Highlights:
+### Key Highlights:
 
 - **@axflow/models**🤖 - An SDK with React hooks and utilities to integrate LLMs into apps and enable streaming responses. It makes building AI frontends intuitive.
 - **axgen**⚙️ - Connect your data sources and documents to LLMs to generate outputs like summaries, answers, translations, etc.
@@ -22,13 +22,14 @@ Whether you want to build custom NLP-powered apps 📱 or scale existing ones to
 
 ## GitHub Stats
 
-👷🏽‍♀️ Builders: Nicholas Charriere, Ben Reinhart
-👩🏽‍💻 Contributors: 3
-💫 GitHub Stars: 993
-🍴 Forks: 40
-👁️ Watch: 10
-🪪 License: MIT
+* 👷🏽‍♀️ Builders: Nicholas Charriere, Ben Reinhart
+* 👩🏽‍💻 Contributors: 3
+* 💫 GitHub Stars: 993
+* 🍴 Forks: 40
+* 👁️ Watch: 10
+* 🪪 License: MIT
 
+---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
