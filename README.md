@@ -30,7 +30,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * Ollama.ai
 * Marvin.ai
 * Rephrase and Respond
-* From Sparse to Dense
+* Chain of density
 * Self-RAG
 * LLMs can Learn Rules
 * RAGAS
