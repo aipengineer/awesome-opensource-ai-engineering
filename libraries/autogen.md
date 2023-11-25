@@ -34,9 +34,10 @@ It delivers an extensive suite of capabilities essential for creating robust, pr
 
 ## 🖇️ Links
 * GitHub Repository: [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
-* Official Website: https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
+* Official Website: [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 * Twitter account: [https://twitter.com/pyautogen](https://twitter.com/pyautogen)
 * Research: [https://microsoft.github.io/autogen/docs/Research/](https://microsoft.github.io/autogen/docs/Research/)
+* Profile in The AI Engineer: [https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/autogen.md](https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/autogen.md)
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
