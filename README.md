@@ -12,7 +12,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [LiteLLM](libraries/litellm.md)
 * [Ludwig](libraries/ludwig.md)
 * [Jina](libraries/jina.md)
-* [LLM Format Enforcer](libraries/lmformatenforcer.md)
+* [LM Format Enforcer](libraries/lmformatenforcer.md)
 * Autogen
 * Chroma
 * Pinecone
