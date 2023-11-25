@@ -9,17 +9,12 @@ It lets you focus on your core logic and algorithms without worrying about infra
 
 ### Key highlights
 
-🚀 Build services for any data type - text, images, video, etc and any DL framework.
-
-♾️ Smooth scaling with features like dynamic batching, replicas, shards.
-
-📡 Duplex streaming so clients can stream responses.
-
-📦 Containerize services easily with the Executor Hub.
-
-🛳️ Streamlined deployment to Docker, Kubernetes and Jina Cloud.
-
-⏩ Accelerated transition from local to production grade with Jina.
+- 🚀 Build services for any data type - text, images, video, etc and any DL framework.
+- ♾️ Smooth scaling with features like dynamic batching, replicas, shards.
+- 📡 Duplex streaming so clients can stream responses.
+- 📦 Containerize services easily with the Executor Hub.
+- 🛳️ Streamlined deployment to Docker, Kubernetes and Jina Cloud.
+- ⏩ Accelerated transition from local to production grade with Jina.
 
 Whether you want to serve an LLM with streaming or chain multiple microservices into an end-to-end pipeline, Jina provides the building blocks to make it seamless. Its Pythonic development experience alongside robust orchestration makes implementing advanced systems easy.
 

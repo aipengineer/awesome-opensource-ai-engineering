@@ -7,17 +7,12 @@ With the rapid advancement of models like ChatGPT, LLMs are revolutionizing ever
 
 ### Key benefits
 
-1️⃣ Open source with an MIT license, so it's free for commercial and personal use
-
-2️⃣ Build backends and flows faster by seeing them execute live as you connect components
-
-3️⃣ Highly extensible to integrate custom components using libraries like LangChain, LlamaIndex, HuggingFace, etc.
-
-4️⃣ Drag-and-drop chat flows to interact with flows in real time
-
-5️⃣ Expose flows as APIs or embed them into applications
-
-6️⃣ Create tools that automate workflows, like fetching stock prices and adding to Airtable
+- 1️⃣  Open source with an MIT license, so it's free for commercial and personal use
+- 2️⃣  Build backends and flows faster by seeing them execute live as you connect components
+- 3️⃣  Highly extensible to integrate custom components using libraries like LangChain, LlamaIndex, HuggingFace, etc.
+- 4️⃣  Drag-and-drop chat flows to interact with flows in real time
+- 5️⃣  Expose flows as APIs or embed them into applications
+- 6️⃣  Create tools that automate workflows, like fetching stock prices and adding to Airtable
 
 If you're looking to leverage large language models like ChatGPT for your own use cases, Flowise's visual programming approach makes doing so incredibly intuitive. Get started in minutes by installing with NPM or spinning up a Docker container. Join the open-source community pushing the boundaries of what's possible with LLMs for all!
 

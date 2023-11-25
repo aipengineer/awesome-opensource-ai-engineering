@@ -8,19 +8,19 @@ Ludwig is an open-source low-code framework for building custom AI models like l
 
 ### Key Highlights
 
-🛠️ Build models quickly - Just declare model architecture in YAML. No coding is needed.
-⚡️ Optimized for scale - Distributed training, model compression, faster optimizers to handle large datasets.
-🧩 Modular and extensible - Experiment with different architectures, tasks, and features as modules.
-📈 Metrics and visualization - Compare models easily with built-in benchmarking.
-🎚️ Complete control - Customize every aspect, like layers, activation functions, etc.
-🏭 Production-ready - Docker containers, export TorchScript models, Kubernetes, etc.
+- 🛠️ Build models quickly - Just declare model architecture in YAML. No coding is needed.
+- ⚡️ Optimized for scale - Distributed training, model compression, faster optimizers to handle large datasets.
+- 🧩 Modular and extensible - Experiment with different architectures, tasks, and features as modules.
+- 📈 Metrics and visualization - Compare models easily with built-in benchmarking.
+- 🎚️ Complete control - Customize every aspect, like layers, activation functions, etc.
+- 🏭 Production-ready - Docker containers, export TorchScript models, Kubernetes, etc.
 
 Whether you want to build an LLM model tailored to your use case or optimize an existing architecture, Ludwig makes the process incredibly intuitive with its low-code approach. Its rich features, like hyperparameter optimization, multi-task learning capabilities and seamless scaling, enable rapid experimentation and development.
 
 With Ludwig, you get the best of simplicity through configuration AND extreme customizability when needed - no coding required.
 
 ## GitHub Stats
--👷🏽‍♀️ Builders: Piero Molino, Travis Addair, Devvret Rishi, Justin Zhao, 
+- 👷🏽‍♀️ Builders: Piero Molino, Travis Addair, Devvret Rishi, Justin Zhao, 
 - 💾 Used in 214 repositories
 - 👩🏽‍💻 Contributors: 145
 - 💫 GitHub Stars: 10.2k
