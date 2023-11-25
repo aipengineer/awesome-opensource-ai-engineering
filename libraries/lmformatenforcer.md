@@ -31,7 +31,7 @@ Whether you want to build an API backend that responds with structured data or r
 * 🔗 Links: Below 👇🏽
 
 ## 🖇️ Links
-* GitHub Repository: [https://github.com/jina-ai/jina](https://github.com/noamgat/lm-format-enforcer)
+* GitHub Repository: [https://github.com/noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)
 * Profile at The AI Engineer: [https://github.com/theaiengineer/awesome-opensource-ai-engineering/edit/main/libraries/llmformatenforcer.md](https://github.com/theaiengineer/awesome-opensource-ai-engineering/edit/main/libraries/lmformatenforcer.md)
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
