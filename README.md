@@ -29,6 +29,15 @@ Explore a curated collection of exceptional open-source libraries for generative
 * local.ai
 * Ollama.ai
 * Marvin.ai
+* Rephrase and Respond
+* From Sparse to Dense
+* Self-RAG
+* LLMs can Learn Rules
+* RAGAS
+* Retrieval-Augmented Generation
+* MemWalter
+* MetaCoT
+* Self-Consistency
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
