@@ -5,7 +5,7 @@ OpenLLM - AI library of the day: OpenLLM by BentoML is an open platform for oper
 
 OpenLLM by BentoML is an open-source platform designed to facilitate the deployment and operation of large language models (LLMs) like GPT-3 in real-world applications. It delivers a comprehensive suite of tools and features for fine-tuning, serving, deploying, and monitoring LLMs, simplifying the end-to-end deployment workflow.
 
-## Key Highlights
+### Key Highlights
 
 - 🚀 Deploy any open-source LLM with a single command. Spin up servers for models like OPT, Flan-T5, Llama, Stable Diffusion, and more in seconds.
 - ⚡ Stream responses directly from LLMs with token streaming support. Enable continuous batching for increased throughput.
