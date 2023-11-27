@@ -14,7 +14,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Jina](libraries/jina.md)
 * [LM Format Enforcer](libraries/lmformatenforcer.md)
 * [Autogen](libraries/autogen.md)
-* Chroma
+* [Chroma](libraries/chroma.md)
 * Pinecone
 * Redisvl
 * Milvus
