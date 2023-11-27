@@ -5,7 +5,7 @@ Autogen enables building next-gen LLM apps via multi-agent conversations to acco
 ## Description
 Autogen is an open-source framework that enables developers to build next-generation large language model (LLM) applications using multiple agents that can converse with each other to solve complex tasks.
 
-## Key Highlights
+### Key Highlights
 
 🤖 Highly customizable and conversable agents that can flexibly combine LLMs, human inputs, and external tools
 
