@@ -15,7 +15,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [LM Format Enforcer](libraries/lmformatenforcer.md)
 * [Autogen](libraries/autogen.md)
 * [Chroma](libraries/chroma.md)
-* Pinecone
+* [Weviate](libraries/weviate.md)
 * Redisvl
 * Milvus
 * Qdrant

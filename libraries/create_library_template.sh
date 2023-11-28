@@ -41,7 +41,7 @@ for name in "$@"; do
 * Official Website: 
 * Twitter account: 
 * Research: 
-* Profile in The AI Engineer: [https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename](https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename)
+* Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
