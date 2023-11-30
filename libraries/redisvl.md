@@ -26,7 +26,7 @@ It delivers production-grade tooling like index manipulation, robust querying co
 
 
 ## GitHub Stats
-* 👷🏽‍♀️ Builders: Sam Partee, Tyler Hutcherson, Chayim Kirshen
+* 👷🏽‍♀️ Builders: [Sam Partee](https://www.linkedin.com/in/sampartee/), [Tyler Hutcherson](https://www.linkedin.com/in/tyler-hutcherson/), Chayim Kirshen
 * 👩🏽‍💻 Contributors: 3
 * 💫 GitHub Stars: 73
 * 🍴 Forks: 4
