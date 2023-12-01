@@ -17,7 +17,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Chroma](libraries/chroma.md)
 * [Weviate](libraries/weviate.md)
 * [Redisvl](libraries/redisvl)
-* Milvus
+* [Milvus](libraries/milvus)
 * Qdrant
 * Langchain
 * Superagent
@@ -38,6 +38,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * MemWalter
 * MetaCoT
 * Self-Consistency
+* llamafile
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 

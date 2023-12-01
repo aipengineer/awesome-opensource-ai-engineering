@@ -25,9 +25,9 @@ Milvus offers best-in-class performance, whether you want to build a conversatio
 Its componentized design delivers maximum flexibility to scale storage and computation separately. Robustness for real-time analytics use cases is baked in.
 
 
-## 📊 Stats
+## 📊 Milvus Stats
 * 👷🏽‍♀️ Builders: Charles Xie, Frank Liu, Yujian Tang
-frankzliu, starlordxie, yujian_tang
+* 👩🏽‍🏭 Builders on X: frankzliu, starlordxie, yujian_tang
 * 👩🏽‍💼 Builders on LinkedIn: https://www.linkedin.com/in/chaoxie/ https://www.linkedin.com/in/fzliu/, https://www.linkedin.com/in/yujiantang/
 * 👩🏽‍💻 Contributors: 229
 * 💫 GitHub Stars: 24.3k
@@ -36,7 +36,7 @@ frankzliu, starlordxie, yujian_tang
 * 🪪 License: Apache-2.0 license
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Milvus Links
 * GitHub Repository: https://github.com/milvus-io/milvus
 * Official Website: https://milvus.io/
 * Twitter account: https://twitter.com/milvusio?lang=en-GB
