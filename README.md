@@ -16,8 +16,8 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Autogen](libraries/autogen.md)
 * [Chroma](libraries/chroma.md)
 * [Weviate](libraries/weviate.md)
-* [Redisvl](libraries/redisvl)
-* [Milvus](libraries/milvus)
+* [Redisvl](libraries/redisvl.md)
+* [Milvus](libraries/milvus.md)
 * Qdrant
 * Langchain
 * Superagent
