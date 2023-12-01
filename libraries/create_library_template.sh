@@ -44,14 +44,14 @@ for name in "$@"; do
 * Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename
 
 ---
-🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
+🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
 
 ---
-🧙🏽 Follow @theaiengineerco for daily insights tailored to AI engineers and subscribe to our newsletter. We are the AI community for hackers!
+🧙🏽 Follow @theaiengineerco for more about $name & daily insights tailored to AI engineers. Subscribe to our newsletter. We are the AI community for hackers!
 
-⚠️ If you want me to highlight your favorite AI library,  please share it in the comments section!
+⚠️ If you want me to highlight your favorite AI library, please share it below 👇🏽!
 EOF
     fi
 done
