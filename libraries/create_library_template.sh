@@ -19,15 +19,16 @@ for name in "$@"; do
 # $name
 ## Overview
 
-
 ## Description
 
-### Key Highlights
+### 💡 Key Highlights
+
+### 🤔 Why should The AI Engineer care?
 
 
-
-## GitHub Stats
-* 👷🏽‍♀️ Builders: 
+## 📊 $name Stats
+* 👷🏽‍♀️ Builders:
+* 👩🏽‍💼 Builders on LinkedIn: 
 * 💾 Used in XXX repositories
 * 👩🏽‍💻 Contributors: 
 * 💫 GitHub Stars: 
@@ -36,17 +37,21 @@ for name in "$@"; do
 * 🪪 License: 
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ $name Links
 * GitHub Repository: 
 * Official Website: 
 * Twitter account: 
-* Research: 
 * Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+
+---
+🧙🏽 Follow @theaiengineerco for daily insights tailored to AI engineers and subscribe to our newsletter. We are the AI community for hackers!
+
+⚠️ If you want me to highlight your favorite AI library,  please share it in the comments section!
 EOF
     fi
 done
