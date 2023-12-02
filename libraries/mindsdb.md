@@ -1,16 +1,48 @@
 # MindsDB
 
 ## Overview
-[MindsDB](https://www.linkedin.com/company/mindsdb/) lets developers connect any ML model to any data source for automated predictions. Hook up APIs, fine-tune models, join data, and query at scale across 130+ integrations, including databases, warehouses, and SaaS apps.
+MindsDB is an AI automation platform connecting data sources to LLMs & ML models for automated predictions. Use SQL to query. Plug predictions into apps and workflows. Unified interface streamlines building & running AI applications at scale.
 
-## Github Stats
-- 👷🏽‍♀️ Builders: [Jorge Torres](https://www.linkedin.com/in/torresjorge/), [Adam Carrigan](https://www.linkedin.com/in/carrigan/)
-- 👩🏽‍💻 Contributors: 744
-- 💫 GitHub Stars: 19k
-- 🍴 Forks: 2.5k
-- 👁️ Watch: 375
+## Description
+
+MindsDB is an end-to-end AI automation platform that makes it dramatically simpler to connect enterprise data sources to state-of-the-art machine learning and large language models (LLMs) in order to build robust AI-based applications.
+
+### 💡 Key Highlights
+🎯 Unified interface - Analyze data and run predictions via SQL
+
+⚡️ 130+ integrations - Connect to databases, warehouses, streaming sources
+
+🤖 Auto-generate models tailored to your data
+
+⏰ Event-driven automation - Trigger model retraining, get live predictions
+
+📊 Built-in monitoring and explainability
+
+### 🤔 Why should The AI Engineer care?
+Whether you want to implement an NLP-based search engine, LLM-powered chatbot, demand forecasting model or any other AI application, MindsDB provides the glue needed to go from prototype to production rapidly.
+
+With turnkey capabilities to connect data, models and outputs in automated workflows, MindsDB makes developing real-time, scalable AI systems intuitive for every developer.
+
+## 📊 MindsDB Stats
+* 👷🏽‍♀️ Builders: Jorge Torres, Adam Carrigan, Minura Punchihewa
+* 👩🏽‍💼 Builders on LinkedIn: https://www.linkedin.com/in/torresjorge/, https://www.linkedin.com/in/carrigan/, https://www.linkedin.com/in/minurapunchihewa/
+* 👩🏽‍🏭 Builders on X: https://twitter.com/torresjorgeml, https://twitter.com/AdamMCarrigan
+* 💾 Used in XXX repositories
+* 👩🏽‍💻 Contributors: 744
+* 💫 GitHub Stars: 19k
+* 🍴 Forks: 2.5k
+* 👁️ Watch: 375
+* 🪪 License: 
+* 🔗 Links: Below 👇🏽
+
+## 🖇️ MindsDB Links
+* GitHub Repository: https://github.com/mindsdb/mindsdb
+* Official Website: https://mindsdb.com/
+* LinkedIn Page: https://www.linkedin.com/company/mindsdb/
+* X Page: https://twitter.com/MindsDB
+* Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/mindsdb.md
 
 ---
-🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
+🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
