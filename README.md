@@ -19,6 +19,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Redisvl](libraries/redisvl.md)
 * [Milvus](libraries/milvus.md)
 * [Qdrant](libraries/qdrant.md)
+* [RAGAS](libraries/ragas.md)
 * Langchain
 * Superagent
 * MetaGPT
@@ -33,7 +34,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * Chain of density
 * Self-RAG
 * LLMs can Learn Rules
-* RAGAS
+
 * Retrieval-Augmented Generation
 * MemWalter
 * MetaCoT
