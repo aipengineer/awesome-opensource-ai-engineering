@@ -28,7 +28,8 @@ for name in "$@"; do
 
 ## 📊 $name Stats
 * 👷🏽‍♀️ Builders:
-* 👩🏽‍💼 Builders on LinkedIn: 
+* 👩🏽‍💼 Builders on LinkedIn:
+* 👩🏽‍🏭 Builders on X: 
 * 💾 Used in XXX repositories
 * 👩🏽‍💻 Contributors: 
 * 💫 GitHub Stars: 
@@ -40,11 +41,12 @@ for name in "$@"; do
 ## 🖇️ $name Links
 * GitHub Repository: 
 * Official Website: 
-* Twitter account: 
+* LinkedIn Page:
+* X Page: 
 * Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/$filename
 
 ---
-🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
+🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
 
