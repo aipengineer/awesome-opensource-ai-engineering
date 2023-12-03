@@ -20,6 +20,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Milvus](libraries/milvus.md)
 * [Qdrant](libraries/qdrant.md)
 * [RAGAS](libraries/ragas.md)
+* [SuperDuperDB](libraries/superduperdb.md)
 * Langchain
 * Superagent
 * MetaGPT
@@ -34,13 +35,12 @@ Explore a curated collection of exceptional open-source libraries for generative
 * Chain of density
 * Self-RAG
 * LLMs can Learn Rules
-
 * Retrieval-Augmented Generation
 * MemWalter
 * MetaCoT
 * Self-Consistency
 * llamafile
-* superduperdb
+
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
