@@ -40,6 +40,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * MemWalter
 * MetaCoT
 * Self-Consistency
+* OpenRecommender(https://github.com/bjsi/open-recommender)
 
 
 
