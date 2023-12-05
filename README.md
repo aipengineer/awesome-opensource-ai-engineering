@@ -21,6 +21,8 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Qdrant](libraries/qdrant.md)
 * [RAGAS](libraries/ragas.md)
 * [SuperDuperDB](libraries/superduperdb.md)
+* [llamafile](libraries/llamafile.md)
+* Ollama.ai
 * Langchain
 * Superagent
 * MetaGPT
@@ -29,7 +31,6 @@ Explore a curated collection of exceptional open-source libraries for generative
 * koboldcpp
 * Transformers.js
 * local.ai
-* Ollama.ai
 * Marvin.ai
 * Rephrase and Respond
 * Chain of density
@@ -39,7 +40,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * MemWalter
 * MetaCoT
 * Self-Consistency
-* llamafile
+
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!

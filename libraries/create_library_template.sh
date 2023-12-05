@@ -21,9 +21,9 @@ for name in "$@"; do
 
 ## Description
 
-### 💡 Key Highlights
+### 💡 $name Key Highlights
 
-### 🤔 Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about $name?
 
 
 ## 📊 $name Stats
@@ -47,6 +47,8 @@ for name in "$@"; do
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
+
+♻️ Repost this to help $name become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
 
