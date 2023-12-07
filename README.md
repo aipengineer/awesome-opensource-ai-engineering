@@ -23,6 +23,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [SuperDuperDB](libraries/superduperdb.md)
 * [llamafile](libraries/llamafile.md)
 * [pgvector](libraries/pgvector.md)
+* [LMQL](libraries/lmql.md)
 * Ollama.ai
 * Langchain
 * Superagent
