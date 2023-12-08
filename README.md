@@ -24,6 +24,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [llamafile](libraries/llamafile.md)
 * [pgvector](libraries/pgvector.md)
 * [LMQL](libraries/lmql.md)
+* [rags](libraries/rags.md) 
 * Ollama.ai
 * Langchain
 * Superagent
@@ -43,6 +44,16 @@ Explore a curated collection of exceptional open-source libraries for generative
 * MetaCoT
 * Self-Consistency
 * OpenRecommender(https://github.com/bjsi/open-recommender)
+* LVE(https://github.com/lve-org/lve)
+* Adapters (https://github.com/adapter-hub/adapters)
+* Video-LLaVa(https://github.com/PKU-YuanGroup/Video-LLaVA)
+* udlbook(https://github.com/udlbook/udlbook)
+* Intel extension for transformers (https://github.com/intel/intel-extension-for-transformers)
+* LLaMa-Factory(https://github.com/hiyouga/LLaMA-Factory)
+* gpt-fast(https://github.com/pytorch-labs/gpt-fast)
+* unsloth(https://github.com/unslothai/unsloth)
+* medritron(https://github.com/epfllm/meditron)
+
 
 
 
