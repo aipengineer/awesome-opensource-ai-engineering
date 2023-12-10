@@ -25,7 +25,8 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [pgvector](libraries/pgvector.md)
 * [LMQL](libraries/lmql.md)
 * [rags](libraries/rags.md)
-* [LLaMa-Factory](libraries/LLaMA-Factory.md)
+* [LLaMa-Factory](libraries/llama-factory.md)
+* [LLM-VM](libraries/llm-vm.md)
 * Ollama.ai
 * Langchain
 * Superagent
@@ -53,6 +54,8 @@ Explore a curated collection of exceptional open-source libraries for generative
 * gpt-fast(https://github.com/pytorch-labs/gpt-fast)
 * unsloth(https://github.com/unslothai/unsloth)
 * medritron(https://github.com/epfllm/meditron)
+* gpt-rag(https://github.com/Azure/gpt-rag)
+* ggml-k8s(https://github.com/danielgross/ggml-k8s)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
