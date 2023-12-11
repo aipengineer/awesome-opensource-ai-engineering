@@ -27,7 +27,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [rags](libraries/rags.md)
 * [LLaMa-Factory](libraries/llama-factory.md)
 * [LLM-VM](libraries/llm-vm.md)
-* [unsloth](libraries/unslot.md)
+* [unsloth](libraries/unsloth.md)
 * Ollama.ai
 * Langchain
 * Superagent
