@@ -27,6 +27,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [rags](libraries/rags.md)
 * [LLaMa-Factory](libraries/llama-factory.md)
 * [LLM-VM](libraries/llm-vm.md)
+* [unsloth](libraries/unslot.md)
 * Ollama.ai
 * Langchain
 * Superagent
@@ -52,7 +53,6 @@ Explore a curated collection of exceptional open-source libraries for generative
 * udlbook(https://github.com/udlbook/udlbook)
 * Intel extension for transformers (https://github.com/intel/intel-extension-for-transformers)
 * gpt-fast(https://github.com/pytorch-labs/gpt-fast)
-* unsloth(https://github.com/unslothai/unsloth)
 * medritron(https://github.com/epfllm/meditron)
 * gpt-rag(https://github.com/Azure/gpt-rag)
 * ggml-k8s(https://github.com/danielgross/ggml-k8s)
