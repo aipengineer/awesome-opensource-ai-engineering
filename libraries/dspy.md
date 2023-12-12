@@ -59,15 +59,3 @@ In summary, DSPy enables AI engineers to build reliable, scalable programs on to
 ♻️ Repost this to help DSPy become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
-
----
-🧙🏽 Follow @theaiengineerco for more about DSPy & daily insights tailored to AI engineers. Subscribe to our newsletter. We are the AI community for hackers!
-
-⚠️ If you want me to highlight your favorite AI library, please share it below 👇🏽!
-
-
-Code Pipelines, Not Prompts - It's Just Python 👩‍💻
-Optimized Prompts & Finetunes - Automatically ✨
-Modular, Reusable Programs - Build On Top ➿
-Abstract Complexity - Focus on Ideas 💡
-10x Engineer Leverage - Ship More 🚀
