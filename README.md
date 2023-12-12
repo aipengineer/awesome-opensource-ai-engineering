@@ -95,8 +95,34 @@ Explore a curated collection of exceptional open-source libraries for generative
 * hamilton(https://github.com/dagworks-inc/hamilton)
 * ColBERT(https://github.com/stanford-futuredata/colbert)
 * Tevatron(https://github.com/texttron/tevatron)
-
-
+- [fairseq2](https://github.com/facebookresearch/fairseq2)
+- [seamless_communication](https://github.com/facebookresearch/seamless_communication)
+- [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
+- [Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer](https://github.com/smol-ai/developer)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer/)
+- [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) 
+- [FlagEmbedding](https://huggingface.co/BAAI/bge-large-en-v1.5)
+- [One Embedder, Any Task: Instruction-Finetuned Text Embeddings](https://github.com/xlang-ai/instructor-embedding)
+- [Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. As simple as useLLM().](https://github.com/r2d4/react-llm)
+- ModelCatalog(https://github.com/lmstudio-ai/model-catalog)
+- [OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
+- [Data Copilot](https://github.com/Modulos/data_copilot)
+- [AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.](https://github.com/Arize-ai/phoenix)
+- https://github.com/yeagerai/yeagerai-agent
+-	https://github.com/homanp/superagent
+-	https://github.com/homanp/langchain-ui
+-	https://github.com/0xpayne/gpt-migrate
+-	https://github.com/shinework/photoshot
+-	https://github.com/prefecthq/marvin
+-	https://github.com/eth-sri/lmql
+-	https://github.com/mlc-ai/web-llm
+-	https://github.com/Atome-FE/llama-node
+-	https://github.com/go-skynet/LocalAI
+-	https://github.com/axilla-io/axgen
+-	https://github.com/zilliztech/VectorDBBench
+-	https://github.com/BuilderIO/gpt-crawler
+-	https://github.com/karpathy/llama2.c
+-	https://github.com/ggerganov/llama.cpp
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
