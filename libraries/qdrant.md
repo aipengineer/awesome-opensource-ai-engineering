@@ -17,10 +17,12 @@ Qdrant is an ultra performant open-source vector database and search engine purp
 
 🔗 Integrations with LangChain, LlamaIndex, OpenAI, Microsoft Semantic Kernel
 
-### 🤔 Why should The AI Engineer care?
 Whether you want to build an intuitive search engine, shoppable feed, content discovery platform or media duplicate detector, Qdrant provides the vector storage and retrieval foundation.
 
 It delivers versatile tooling to apply constraints and business logic on similarities using its rich query interface. Check out the interactive demos and benchmark comparisons to see blazing fast performance first-hand!
+
+### 🤔 Why should The AI Engineer care?
+
 
 
 ## 📊 Qdrant Stats

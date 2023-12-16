@@ -24,7 +24,9 @@ Whether you want to build a conversational search engine, "ChatGPT for X" or any
 
 With support for custom embedding functions and a fully managed backend handling provisioning/scaling, Chroma delivers a delightful developer experience. Check out the documentation to get started!
 
-## GitHub Stats
+### Why should The AI Engineer care?
+
+## Chroma Stats
 * 👷🏽‍♀️ Builders: [Jeff Huber](https://www.linkedin.com/in/jeffchuber/), [Hammad Bashir](https://www.linkedin.com/in/hbashir/), [Luke VanderHart](https://www.linkedin.com/in/luke-vanderhart-270586170/), [Anton Troynikov](https://www.linkedin.com/in/antontroynikov/), Trayan Azarov
 * 💾 Used in 10.7k repositories
 * 👩🏽‍💻 Contributors: 82
@@ -34,7 +36,7 @@ With support for custom embedding functions and a fully managed backend handling
 * 🪪 License: Apache-2.0
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Chroma Links
 * GitHub Repository: https://github.com/chroma-core/chroma
 * Official Website: https://www.trychroma.com/
 * Twitter account: https://twitter.com/trychroma

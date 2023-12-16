@@ -18,7 +18,9 @@ It lets you focus on your core logic and algorithms without worrying about infra
 
 Whether you want to serve an LLM with streaming or chain multiple microservices into an end-to-end pipeline, Jina provides the building blocks to make it seamless. Its Pythonic development experience alongside robust orchestration makes implementing advanced systems easy.
 
-## GitHub Stats
+### Why should The AI Engineer care?
+
+## Jina Stats
 * 👷🏽‍♀️ Builders: [Han Xiao](https://www.linkedin.com/in/hxiao87/), [Joan Fontanals](https://www.linkedin.com/in/joanfontanalsmartinez/), [Nan Wang](https://www.linkedin.com/in/nanwang28/)
 * 💾 Used in 1.3k repositories
 * 👩🏽‍💻 Contributors: 172
@@ -28,7 +30,7 @@ Whether you want to serve an LLM with streaming or chain multiple microservices 
 * 🪪 License: Apache-2.0
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Jina Links
 * Official Website: https://jina.ai/
 * GitHub Repository: https://github.com/jina-ai/jina
 * Profile at The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/jina.md

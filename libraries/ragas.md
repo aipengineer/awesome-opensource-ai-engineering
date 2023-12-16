@@ -17,20 +17,17 @@ Ragas is an open-source Python framework designed to evaluate and monitor the pe
 
 🔬 Production monitoring through custom evaluation models identifying bad responses
 
-### 🤔 Why should The AI Engineer care?
 Ragas provides batteries-included building blocks for taking a data-driven approach to optimizing RAG pipelines. Its metrics shine a light on what's working and what's not, while synthetic data generation capabilities allow creating comprehensive test suites.
 
 Whether you want to diagnose production issues, run controlled experiments or generally drive improvements through metrics, Ragas provides the technical foundation. With integrations into MLOps tools like LangFuse, it enables reproducing research techniques at scale.
 
-1. Ragas makes evaluating and monitoring retrieval augmented generation (RAG) systems built using large language models (LLMs) dramatically more robust and reproducible. Rigorous evaluation methodology matters as we build more powerful assistants.
+### 🤔 Why should The AI Engineer care?
 
-2. Capabilities like generating multi-faceted synthetic test data and quantifying metrics on aspects like hallucination enable engineers to diagnose weaknesses and incrementally strengthen systems. Targeted incremental improvement drives progress.
-
-3. Integrations with MLOps platforms such as LangFuse streamline instrumenting Ragas metrics as part of continuous integration allowing rapid detection of regressions. Automated regression testing prevents nasty surprises.
-
-4. Features like production quality monitoring using performant models ensure reliability at scale once systems are deployed. Robustness in the wild is key and Ragas provides the tools.
-
-5. An active open source community advancing the Ragas framework means engineers can customize evaluations to their specific requirements. Open collaboration pushes the boundaries of what's possible.
+1. 📊 Ragas makes evaluating and monitoring retrieval augmented generation (RAG) systems built using large language models (LLMs) dramatically more robust and reproducible. Rigorous evaluation methodology matters as we build more powerful assistants.
+2. 🔬 Capabilities like generating multi-faceted synthetic test data and quantifying metrics on aspects like hallucination enable engineers to diagnose weaknesses and incrementally strengthen systems. Targeted incremental improvement drives progress.
+3. ⚙️ Integrations with MLOps platforms such as LangFuse streamline instrumenting Ragas metrics as part of continuous integration, allowing rapid detection of regressions. Automated regression testing prevents nasty surprises.
+4. 🛡️ Features like production quality monitoring using performant models ensure reliability at scale once systems are deployed. Robustness in the wild is key and Ragas provides the tools.
+5. 🤝 An active open-source community advancing the Ragas framework means engineers can customize evaluations to their specific requirements. Open collaboration pushes the boundaries of what's possible.
 
 In summary, by providing a comprehensive toolkit for evaluation and monitoring, Ragas empowers engineers to build reliable and transparent RAG-based AI systems.
 

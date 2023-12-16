@@ -21,9 +21,9 @@ Whether you want to build a mathematical assistant, a coding sidekick, a convers
 
 It delivers an extensive suite of capabilities essential for creating robust, production-ready systems that can solve tasks through agent collaboration. Check out the documentation and examples to see it in action.
 
-## Description
+### Why should The AI Engineer care?
 
-## GitHub Stats
+## Autogen Stats
 * 👷🏽‍♀️ Builders: [Chi Wang](https://www.linkedin.com/in/chi-wang-49b15b16/), [Qingyun Wu](https://www.linkedin.com/in/qingyun-wu-183019a6/), [Julia Kiseleva](https://www.linkedin.com/in/julia-kiseleva-24842710/), [Negar Arabzadeh](https://www.linkedin.com/in/n-arabzadeh/)
 * 💾 Used in 1.3k repositories
 * 👩🏽‍💻 Contributors: 172
@@ -33,7 +33,7 @@ It delivers an extensive suite of capabilities essential for creating robust, pr
 * 🪪 License: Apache-2.0
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Autogen Links
 * GitHub Repository: [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
 * Official Website: [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 * Twitter account: [https://twitter.com/pyautogen](https://twitter.com/pyautogen)

@@ -19,7 +19,9 @@ Whether you want to build an LLM model tailored to your use case or optimize an 
 
 With Ludwig, you get the best of simplicity through configuration AND extreme customizability when needed - no coding required.
 
-## GitHub Stats
+### Why should The AI Engineer care?
+
+## Ludwig Stats
 - 👷🏽‍♀️ Builders: Piero Molino, Travis Addair, Devvret Rishi, Justin Zhao, 
 - 💾 Used in 214 repositories
 - 👩🏽‍💻 Contributors: 145
@@ -29,7 +31,7 @@ With Ludwig, you get the best of simplicity through configuration AND extreme cu
 - 🪪 License: Apache-2.0
 - 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Ludwig Links
 - Official Website: https://ludwig.ai/
 - GitHub Repository: https://github.com/ludwig-ai/ludwig
 

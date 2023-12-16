@@ -1,4 +1,4 @@
-# LLM Format Enforcer
+# LM Format Enforcer
 ## Overview
 LM Enforcer ensures precise output formats from language models using token filtering. Supports JSON Schema, regex, batching/beam search. Integrates with HuggingFace, LangChain, etc. Lets models control whitespace & ordering to reduce hallucinations.
 
@@ -21,7 +21,9 @@ LM Enforcer is an open-source library that enforces precise output formats like 
 
 Whether you want to build an API backend that responds with structured data or reduces hallucinations, LM Enforcer equips models to handle precise formats reliably. By keeping models "in the loop", LM Enforcer balances structure with flexibility elegantly.
 
-## GitHub Stats
+### Why should The AI Engineer care?
+
+## LM Format Enforcer Stats
 * 👷🏽‍♀️ Builders: [Noam Gat](https://www.linkedin.com/in/noamgat), [Benedikt Fuchs](https://www.linkedin.com/in/benedikt-fuchs-020a1b100/)
 * 👩🏽‍💻 Contributors: 2
 * 💫 GitHub Stars: 286

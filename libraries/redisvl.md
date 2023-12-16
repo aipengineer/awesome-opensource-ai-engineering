@@ -7,7 +7,6 @@ RedisVL is an open-source Python client library that enables using Redis as a fu
 
 ### Key Highlights
 
-
 ⚡️ Blazing fast queries powered by Redis' performance
 
 🧭 Intuitive search interface with filtering, geospatial, numeric ops
@@ -24,8 +23,9 @@ Whether you want to build a conversational engine, recommendations system, or an
 
 It delivers production-grade tooling like index manipulation, robust querying constructs and caching right out of the box. The simple yet full-featured capabilities help minimize effort and cost.
 
+### Why should The AI Engineer care?
 
-## GitHub Stats
+## RedisVL Stats
 * 👷🏽‍♀️ Builders: [Sam Partee](https://www.linkedin.com/in/sampartee/), [Tyler Hutcherson](https://www.linkedin.com/in/tyler-hutcherson/), Chayim Kirshen
 * 👩🏽‍💻 Contributors: 3
 * 💫 GitHub Stars: 73
@@ -34,7 +34,7 @@ It delivers production-grade tooling like index manipulation, robust querying co
 * 🪪 License: MIT License
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Links
+## 🖇️ Weviate Links
 * GitHub Repository: https://github.com/RedisVentures/RedisVL
 * Official Website: https://www.redisvl.com/i
 * Twitter account: https://twitter.com/Redisinc

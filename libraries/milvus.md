@@ -18,11 +18,13 @@ Milvus is an open-source cloud-native vector database purpose-built from the gro
 
 📚 Client libraries for Python, Java, JavaScript, Go etc.
 
-### Why should The AI Engineer care?
-
 Milvus offers best-in-class performance, whether you want to build a conversational engine, content recommendation system, or media search application drawing on vector similarities.
 
 Its componentized design delivers maximum flexibility to scale storage and computation separately. Robustness for real-time analytics use cases is baked in.
+
+### Why should The AI Engineer care?
+
+
 
 
 ## 📊 Milvus Stats
