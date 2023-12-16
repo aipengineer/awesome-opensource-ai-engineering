@@ -32,6 +32,7 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [Ollama](libraries/ollama.ai.md)
 * [Superagent](libraries/superagent.md)
 * [Marvin](libraries/marvin.md)
+* [MetaGPT](libraries/metagpt.md)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
