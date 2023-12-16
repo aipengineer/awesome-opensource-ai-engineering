@@ -23,7 +23,7 @@ Whether your goal is to unify experimentation and production environments, reduc
 
 With its extensive integrations, customizable architecture and singular focus on people-centric design, ZenML streamlines creating scalable, reliable enterprise MLOps platforms.
 
-### 🤔 Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about ZenML?
 
 1. ⚡️ ZenML simplifies building end-to-end MLOps pipelines from experimentation to production deployment. As AI practitioners, efficient workflow and infrastructure accelerate our development and impact.
 2. 🤝 The open-source nature of ZenML, combined with its integration across 50+ MLOps tools, provides flexibility in leveraging both existing and emerging solutions as part of a cohesive workflow. This allows for staying on the cutting edge.

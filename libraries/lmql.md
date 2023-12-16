@@ -46,7 +46,7 @@ So in summary, LMQL gives AI engineers far more control over LLM prompting throu
 * 🪪 License: Apache-2.0
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ lmql Links
+## 🖇️ LMQL Links
 * GitHub Repository: https://github.com/eth-sri/lmql
 * Official Website: https://lmql.ai
 * X Page: https://twitter.com/lmqllang

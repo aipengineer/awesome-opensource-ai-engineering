@@ -26,7 +26,6 @@ The goal is to enable "ChatGPT over your data" for everyone.
 
 In summary, RAGs artfully blends ease of use with advanced capabilities for swiftly building bespoke RAG systems. It streamlines both mocking up proofs of concept and deploying highly customized solutions, making it an indispensable asset for AI engineers operating on the frontier of natural language processing. Whether iterating new ideas or actualizing specialized designs, RAGs empowers progress at the forefront.
 
-
 ## 📊 rags Stats
 * 👷🏽‍♀️ Builders: Jerry Liu, Logan Markewich, Alexandros Filothodoros
 * 👩🏽‍💼 Builders on LinkedIn: https://www.linkedin.com/in/jerry-liu-64390071/, https://www.linkedin.com/in/logan-markewich/, https://www.linkedin.com/in/alfilo/

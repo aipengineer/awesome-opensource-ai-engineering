@@ -22,7 +22,7 @@ Weaviate is an open source vector database designed for building customized sema
 
 Whether you want to build a semantic search engine, conversational app or recommendations system powered by vectors, Weaviate equipped with HNSW index provides the foundation. Robust and optimized for scale in the cloud, its storage separates objects and vectors for versatility. The modular architecture makes customizing for innovative use cases smooth.
 
-### Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Weviate?
 
 ## 📊 Weviate Stats
 * 👷🏽‍♀️ Builders: [Etienne Dilocker](https://www.linkedin.com/in/etienne-dilocker-60727b175/), [Bob van Luijt](https://www.linkedin.com/in/bobvanluijt/), [Dirk Kulawiak](https://www.linkedin.com/in/dirk-kulawiak/), [Marcin Antas](https://www.linkedin.com/in/antasmarcin/), [Connor Shorten](https://www.linkedin.com/in/connor-shorten-34923a178/)

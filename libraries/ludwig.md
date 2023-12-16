@@ -19,9 +19,9 @@ Whether you want to build an LLM model tailored to your use case or optimize an 
 
 With Ludwig, you get the best of simplicity through configuration AND extreme customizability when needed - no coding required.
 
-### Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Ludwig?
 
-## Ludwig Stats
+## 📊 Ludwig Stats
 - 👷🏽‍♀️ Builders: Piero Molino, Travis Addair, Devvret Rishi, Justin Zhao, 
 - 💾 Used in 214 repositories
 - 👩🏽‍💻 Contributors: 145

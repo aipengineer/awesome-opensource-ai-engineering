@@ -19,13 +19,11 @@ Langfuse is an open-source observability and analytics solution tailored for pro
 
 🔧 Local development friendly with Docker images and Railway button
 
-### 🤔 Why should The AI Engineer care?
-
 Whether you want to identify bad model versions in production, reduce inference costs or generally understand what drives your LLM application's reliability and performance, Langfuse provides the missing visibility.
 
 Its batteries-included capabilities like tracing, scoring, and analytics help developers build and operate LLM-based systems with confidence. The open source architecture ensures full customizability for diverse use cases.
 
-### Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Langfuse?
 
 1. 📈 Langfuse provides end-to-end observability into large language model (LLM) based applications, enabling engineers to debug issues and understand how changes impact metrics like quality, cost, and latency. Monitoring production systems matters.
 2. 📊 The ability to trace executions connecting prompts to responses, add custom scoring, and segment data by numerous parameters delivers granular analytics on LLM apps. Analytics drives optimization.
@@ -47,7 +45,7 @@ In summary, by providing an integrated solution for end-to-end observability and
 * 🪪 License: MIT Expat
 * 🔗 Links: Below 👇🏽
 
-# 🖇️ Langfuse Links
+## 🖇️ Langfuse Links
 * GitHub Repository: https://www.linkedin.com/company/langfuse/
 * Official Website: https://langfuse.com/
 * X Page: https://twitter.com/langfuse

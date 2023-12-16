@@ -25,7 +25,9 @@ Whether you want to perform question answering, answer generation, semantic docu
 
 Haystack has been battle-tested at scale by companies like Apple, Netflix, Nvidia and more. With the ability to fine-tune models and optimize search, Haystack provides the missing Lego pieces to build custom NLP solutions tailored to your domain.
 
-## GitHub Stats:
+### 🤔 Why should The AI Engineer care about Haystack?
+
+## 📊 Haystack Stats:
 
 - 👷🏽‍♀️ Builders: Nicholas Charriere, Ben Reinhart
 - 💾 Used in: 954 repositories
@@ -34,6 +36,10 @@ Haystack has been battle-tested at scale by companies like Apple, Netflix, Nvidi
 - 🍴 Forks: 1.5k
 - 👁️ Watch: 115
 - 🪪 License: Apache-2.0
+
+## 🖇️ Haystack Links
+
+
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!

@@ -17,7 +17,9 @@ LiteLLM is an open-source package that enables you to call multiple LLM APIs (Az
 
 Whether you want to simplify calling multiple provider APIs or build robust systems with error handling and advanced logic across models, LiteLLM makes it dramatically easier. With extensive test coverage across 50+ cases and battle-tested in production, it provides a reliable foundation for calling LLMs consistently.
 
-## GitHub Stats
+### 🤔 Why should The AI Engineer care about LiteLLM?
+
+## 📊 LiteLLM Stats
 
 - 👷🏽‍♀️ Builders: https://www.linkedin.com/in/reffajnaahsi/, https://www.linkedin.com/in/krish-d/
 - 💾 Used in 399 repositories

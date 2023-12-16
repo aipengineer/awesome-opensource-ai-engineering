@@ -20,7 +20,7 @@ llamafile makes deploying and running LLMs dramatically more accessible by colla
 
 The library handles the challenging aspects behind the scenes so you can focus on your applications, whether you want to build a custom assistant or analyze images with a multimodal LLM like LLaVA.
 
-### 🤔 Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about llamafile?
 1. 🚚 Portability and accessibility - Llamafile allows large language models to be distributed and run as a single executable file that works across multiple operating systems and hardware architectures. This makes deploying LLMs much more portable and accessible without needing to install dependencies or set up environments.
 2. 🔒 Offline capabilities - Since llamafile packages everything into a self-contained binary, the models can run fully offline without needing a network connection or external services. This is useful for reliability and privacy reasons.
 3. 🧪 Prototyping and experimentation - Llamafile provides an easy way for AI engineers to prototype and experiment with different LLMs locally by just downloading a file and running it. This enables faster iteration.

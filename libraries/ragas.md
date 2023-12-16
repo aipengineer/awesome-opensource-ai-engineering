@@ -21,8 +21,7 @@ Ragas provides batteries-included building blocks for taking a data-driven appro
 
 Whether you want to diagnose production issues, run controlled experiments or generally drive improvements through metrics, Ragas provides the technical foundation. With integrations into MLOps tools like LangFuse, it enables reproducing research techniques at scale.
 
-### 🤔 Why should The AI Engineer care?
-
+### 🤔 Why should The AI Engineer care about Ragas?
 1. 📊 Ragas makes evaluating and monitoring retrieval augmented generation (RAG) systems built using large language models (LLMs) dramatically more robust and reproducible. Rigorous evaluation methodology matters as we build more powerful assistants.
 2. 🔬 Capabilities like generating multi-faceted synthetic test data and quantifying metrics on aspects like hallucination enable engineers to diagnose weaknesses and incrementally strengthen systems. Targeted incremental improvement drives progress.
 3. ⚙️ Integrations with MLOps platforms such as LangFuse streamline instrumenting Ragas metrics as part of continuous integration, allowing rapid detection of regressions. Automated regression testing prevents nasty surprises.
@@ -31,7 +30,7 @@ Whether you want to diagnose production issues, run controlled experiments or ge
 
 In summary, by providing a comprehensive toolkit for evaluation and monitoring, Ragas empowers engineers to build reliable and transparent RAG-based AI systems.
 
-## 📊 ragas Stats
+## 📊 Ragas Stats
 * 👷🏽‍♀️ Builders: Jithin James, Shahul ES, Tino Max Thayil, Yongtae Hwang, Armando Daniel Diaz Gonzalez
 * 👩🏽‍💼 Builders on LinkedIn: https://www.linkedin.com/in/jjmachan/, https://www.linkedin.com/in/shahules/, https://www.linkedin.com/in/tinothayil/, https://www.linkedin.com/in/hwang-yongtae/, https://www.linkedin.com/in/armando-diaz-47a498113/
 * 👩🏽‍🏭 Builders on X: @Shahules786, @Yoooongtae, @Armando27740756
@@ -42,7 +41,7 @@ In summary, by providing a comprehensive toolkit for evaluation and monitoring, 
 * 🪪 License: Apache-2.0
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ ragas Links
+## 🖇️ Ragas Links
 * GitHub Repository: https://github.com/explodinggradients/ragas
 * Official Website: https://docs.ragas.io/
 * LinkedIn Page: https://www.linkedin.com/company/ragas/

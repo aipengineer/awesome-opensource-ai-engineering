@@ -16,15 +16,24 @@ With the rapid advancement of models like ChatGPT, LLMs are revolutionizing ever
 
 If you're looking to leverage large language models like ChatGPT for your own use cases, Flowise's visual programming approach makes doing so incredibly intuitive. Get started in minutes by installing with NPM or spinning up a Docker container. Join the open-source community pushing the boundaries of what's possible with LLMs for all!
 
-### 🤔 Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Flowise AI?
 
+1. 🤝 Accessibility - Low-code workflow visually empowers less technical users to build customized LLM solutions.
+2. 🧩 Modularity - Lego-like prebuilt blocks enable combining capabilities, models, data etc into reuseable flows.
+3. ⚡️ Speed - Interactive flow builder accelerates constructing functioning LLM backends 3-5x faster.
+4. 👥 Community - Open source ecosystem fosters collaboration and contribution around LLM democratization.
+5. 🔬 Education - Visual programming paradigm intuitively builds mental models of how LLM systems work.
 
+In summary, Flowise accelerates innovation and collaboration around large language models by making it simpler to build customized solutions. Its visual approach also makes LLMs more accessible to domain experts beyond just AI engineers.
 
+## 📊 Flowise Stats
 * 👷🏽‍♀️ Builders: [ZhenJing Heng (Henry)](https://www.linkedin.com/in/ACoAABwCxcUBn30TVaYCp89mkSU3_YwlMFF0t-E), [Chung Yau Ong](https://www.linkedin.com/in/ACoAADCzW8AB1kJCc5e_KfJPdNmZKOWiHfDjMIM)
 * 👩🏽‍💻 Contributors: 56
 * 💫 GitHub Stars: 17.8k
 * 🍴 Forks: 8.5k
 * 👁️ Watch: 147
+
+## 🖇️ Flowise Links
 
 ---
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!

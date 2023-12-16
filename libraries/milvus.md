@@ -22,7 +22,7 @@ Milvus offers best-in-class performance, whether you want to build a conversatio
 
 Its componentized design delivers maximum flexibility to scale storage and computation separately. Robustness for real-time analytics use cases is baked in.
 
-### Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Milvus?
 
 
 

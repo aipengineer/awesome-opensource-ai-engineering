@@ -24,7 +24,7 @@ Whether you want to build a conversational search engine, "ChatGPT for X" or any
 
 With support for custom embedding functions and a fully managed backend handling provisioning/scaling, Chroma delivers a delightful developer experience. Check out the documentation to get started!
 
-### Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Chroma?
 
 ## Chroma Stats
 * 👷🏽‍♀️ Builders: [Jeff Huber](https://www.linkedin.com/in/jeffchuber/), [Hammad Bashir](https://www.linkedin.com/in/hbashir/), [Luke VanderHart](https://www.linkedin.com/in/luke-vanderhart-270586170/), [Anton Troynikov](https://www.linkedin.com/in/antontroynikov/), Trayan Azarov

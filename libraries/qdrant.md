@@ -21,7 +21,7 @@ Whether you want to build an intuitive search engine, shoppable feed, content di
 
 It delivers versatile tooling to apply constraints and business logic on similarities using its rich query interface. Check out the interactive demos and benchmark comparisons to see blazing fast performance first-hand!
 
-### 🤔 Why should The AI Engineer care?
+### 🤔 Why should The AI Engineer care about Qdrant?
 
 
 
