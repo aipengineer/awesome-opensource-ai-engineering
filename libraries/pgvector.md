@@ -22,15 +22,11 @@ pgvector is vector similarity search in Postgres. As machine learning models pro
 By tightly integrating vector capabilities into Postgres, pgvector combines the flexibility of vector databases with the power of a relational data warehouse. Whether you have tens of vectors or tens of billions, give it a look for your next AI project!
 
 ### 🤔 Why should The AI Engineer care about pgvector?
-1. Tight integration with data infrastructure - Storing vectors directly in Postgres eliminates extra movement/coordination between separate vector search and data storage systems. Engineers can focus more on models and less on data engineering.
-
-2. Leverage relational power - Ability to easily join vectors to other tables for added context, filtering, analysis etc. SQL also great for vector aggregations/analytics.
-
-3. Scale vectors massively - With partitioning and Postgres' proven scalability, can store tens of billions of vectors queried in real-time.
-
-4. Reduce vendor lock-in - Open source pgvector isn't tied to any proprietary cloud service. Can run on any hardware. Freedom to switch or mix vendors.
-
-5. Unified access for teams - Model builders, data scientists, and app devs can all leverage same vector storage/search through variety of language APIs rather than isolated silos.
+1. 🤝 Tight integration with data infrastructure - Storing vectors directly in Postgres eliminates extra movement/coordination between separate vector search and data storage systems. Engineers can focus more on models and less on data engineering.
+2. 📊 Leverage relational power - Ability to quickly join vectors to other tables for added context, filtering, analysis, etc. SQL is also great for vector aggregations/analytics.
+3. 📈 Scale vectors massively - With partitioning and Postgres' proven scalability, it can store tens of billions of vectors queried in real-time.
+4. 🔓 Reduce vendor lock-in - Open-source pgvector isn't tied to any proprietary cloud service. It can run on any hardware—freedom to switch or mix vendors.
+5. 👥 Unified access for teams - Model builders, data scientists, and app devs can all leverage the same vector storage/search through a variety of language APIs rather than isolated silos.
 
 So in summary, pgvector simplifies the data side for AI engineers by tightly coupling vector capabilities into the underlying data management platform. This allows engineers to focus innovation higher up the stack on models, algorithms, and applications.
 

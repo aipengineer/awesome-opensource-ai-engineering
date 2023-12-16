@@ -35,7 +35,7 @@ Whether you're an ML researcher or startup builder, DSPy unlocks rapid innovatio
 
 5️⃣ Productivity - Greatly speeds up iteration and innovation with foundation model pipelines.
 
-In summary, DSPy enables AI engineers to build reliable, scalable programs on top of LLMs and retrieval in a fraction of the time. By automating prompt optimization, it massively multiplies an engineer's leverage and impact when developing conversational AI systems.
+In summary, DSPy greatly accelerates the process of constructing dependable, scalable software using large language models and retrieval methods. Automating the refinement of prompts substantially increases the efficiency and influence of AI engineers working on conversational artificial intelligence platforms.
 
 ## 📊 DSPy Stats
 * 👷🏽‍♀️ Builders: Sri Vardhamanan A, Omar Khattab, Manish Shetty, Shangyin Tan

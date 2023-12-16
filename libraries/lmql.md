@@ -23,16 +23,16 @@ LMQL is a programming language for Large Language Models. As large language mode
 So whether you need more control, better constraints, modular reuse, optimized performance or backend portability, LMQL brings the power of programming to LLM interaction. I invite you to check out the examples, documentation and playground to see how LMQL can boost your LLM applications.
 
 ### 🤔 Why should The AI Engineer care about LMQL?
-1. Modularity - Break large prompts into reusable, configurable components. Build libraries of prompt modules.
-2. Constraints - Better control over LLM responses with token lengths, data types, regexes, etc. Critical for safety.
-3. Decoding - Sophisticated decoding algorithms like beam search to deeply explore reasoning chains.
-4. Performance - Runtime optimizations like speculation, caching, batching accelerate prompting.
-5. Portability - Write once, target multiple LLM backends (OpenAI, Cohere, Anthropic, etc.)
-6. Safety - Integrations with tools like ChainSafe for applying safety constraints.
-7. Extensibility - Call arbitrary Python functions during generation to augment capabilities.
-8. Orchestration - Coordinate and sequence the prompting of multiple models.
+1. 🧱 Modularity - Break large prompts into reusable, configurable components. Build libraries of prompt modules.
+2. ⛓️ Constraints - Better control over LLM responses with token lengths, data types, regexes, etc. Critical for safety.
+3. 🔎 Decoding - Sophisticated decoding algorithms like beam search to deeply explore reasoning chains.
+4. ⚡️ Performance - Runtime optimizations like speculation, caching, batching accelerate prompting.
+5. 🚚 Portability - Write once, target multiple LLM backends (OpenAI, Cohere, Anthropic, etc.)
+6. 🛡️ Safety - Integrations with tools like ChainSafe for applying safety constraints.
+7. 💻 Extensibility - Call arbitrary Python functions during generation to augment capabilities.
+8. 🎹 Orchestration - Coordinate and sequence the prompting of multiple models.
 
-So in summary, LMQL gives AI engineers far more control over LLM prompting through constraints, decoding techniques, performance improvements and backend portability. This makes integration safer while expanding what's possible.
+So in summary, LMQL gives AI engineers far more control over LLM prompting through constraints, decoding techniques, performance improvements, and backend portability. This makes integration safer while expanding what's possible.
 
 
 ## 📊 LMQL Stats

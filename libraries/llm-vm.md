@@ -26,15 +26,11 @@ Whether you're a solo developer or enterprise team, LLM-VM is the fastest way to
 
 ### 🤔 Why should The AI Engineer care about LLM-VM?
 
-- 1️⃣ Simplicity - Abstracts away infrastructure so engineers can focus on product logic and capabilities using LLMs versus managing complexity.
-
-- 2️⃣ Modularity - Swap out models, data sources, APIs with no code changes. Great for testing ideas.
-
-- 3️⃣ Optimization - State-of-the-art batching, quantization, etc. that would be costly to build custom means better performance.
-
-- 4️⃣ Reliability - Handles load balancing across models & providers, auto fine-tuning for consistency, and failover for robustness.
-
-- 5️⃣ Extensibility - Add agents to connect new data sources, services with just descriptions for easy extensibility.
+1. 🛠 Simplicity - Abstracts away infrastructure so engineers can focus on product logic and capabilities using LLMs versus managing complexity.
+2. 📦 Modularity - Swap out models, data sources, and APIs with no code changes. Great for testing ideas.
+3. ⚡️ Optimization - State-of-the-art batching, quantization, etc., which would be costly to build custom means better performance.
+4. 💪 Reliability - Handles load balancing across models & providers, auto fine-tuning for consistency, and failover for robustness.
+5. 🔌 Extensibility - Add agents to connect new data sources and services with just descriptions for easy extensibility.
 
 In summary, LLM-VM handles the undifferentiated heavy lifting so engineers can rapidly build and iterate language-based products. It saves time and cost while providing guardrails and best practices for success with LLMs.
 
