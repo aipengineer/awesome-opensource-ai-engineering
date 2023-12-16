@@ -22,15 +22,11 @@ SuperduperDB eliminates the need for specialized vector databases or complex MLO
 Whether you want to enable vector similarity search on databases or operationalize models at scale, SuperduperDB makes the process intuitive and hassle-free. Check out the documentation and demo notebooks to see it in action!
 
 ### 🤔 Why should The AI Engineer care?
-1. SuperduperDB dramatically accelerates building end-to-end AI apps by integrating models directly into databases - no migration or duplication needed. Reduced overhead enables faster experimentation.
-
-2. Streamlining capabilities like in-DB training, streaming inference and vector search using simple Python minimizes the specialized skills needed. Democratization drives broader innovation.
-
-3. Chaining multiple models into workflows using Python without added infrastructure complexity enhances extensibility and transparency. Modular architecture matters.
-
-4. Support for diverse data types beyond text expands the horizons of possible applications that engineers can develop. Broad applicability creates new opportunities.
-
-5. A single managed environment from initial prototyping to full-blown production reduces operations overhead. Smoother path to productionization means more impact.
+1. ⚡️SuperduperDB dramatically accelerates building end-to-end AI apps by integrating models directly into databases - no migration or duplication needed. Reduced overhead enables faster experimentation.
+2. 👩‍🔬 Streamlining capabilities like in-DB training, streaming inference, and vector search using simple Python minimizes the specialized skills needed. Democratization drives broader innovation.
+3. 🧩 Chaining multiple models into Python workflows without added infrastructure complexity enhances extensibility and transparency—modular architecture matters.
+4. 🌈 Support for diverse data types beyond text expands the horizons of possible applications AI engineers can develop. Broad applicability creates new opportunities.
+5. 📈 A single-managed environment from initial prototyping to full-blown production reduces operations overhead. A smoother path to productionization means more impact.
 
 In summary, by simplifying the process of enhancing databases with AI capabilities, SuperduperDB empowers engineers to take ideas swiftly from conception to operationalization in real-world systems.
 

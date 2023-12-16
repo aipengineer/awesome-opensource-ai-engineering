@@ -25,13 +25,9 @@ So whether you're looking to turbocharge research 🚗 or deploy models faster �
 ### 🤔 Why should The AI Engineer care about unsloth?
 
 1. ⚡️ Rapid Prototyping - Quickly iterate and test ideas with up to 30x faster fine-tuning turnaround times.
-
 2. 💰 Cost Savings - Train models faster and with less GPU memory for dramatically lower compute costs.
-
 3. 🏭 Productization - Speed up research to production rollout of LLM models and capabilities.
-
 4. 🔧 Customization - Modular design allows tuning optimizations specifically for your model architectures.
-
 5. 🕰️ Future-proofing - Innovations like manual autograd frees you from relying on frameworks' built-in limitations.
 
 In summary, Unsloth gives AI engineers the two most precious resources - time and money. Whether researching cutting edge techniques or deploying LLMs at scale, faster innovation and reduced costs will drive impact.

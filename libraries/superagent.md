@@ -37,15 +37,11 @@ Whether creating a next-gen ChatGPT for your product or leveraging LLMs for work
 
 ### 🤔 Why should The AI Engineer care about Superagent?
 
-- 1️⃣ Speed - Go from idea to production AI assistant in minutes instead of months.
-
-- 2️⃣ Abstraction - Focus on capabilities rather than infra or ops.
-
-- 3️⃣ Flexibility - Easily swap out models, data sources, tools. Great for testing ideas.
-
-- 4️⃣ Reliability - Battle-tested foundations like FastAPI enable scale.
-
-- 5️⃣ Community - Be part of innovating the next generation of assistants.
+1. ⚡️ Speed - Go from idea to production AI assistant in minutes instead of months.
+2. 🔭 Abstraction - Focus on capabilities rather than infra or ops.
+3. ⚙️ Flexibility - Easily swap out models, data sources, and tools. Great for testing ideas.
+4. 💪 Reliability - Battle-tested foundations like FastAPI enable scale.
+5. 🤝 Community - Be part of innovating the next generation of assistants.
 
 In summary, Superagent enables engineers to build quickly with reduced complexity. By handling the undifferentiated heavy lifting, it allows one to focus innovation on the user experience and problem solving.
 

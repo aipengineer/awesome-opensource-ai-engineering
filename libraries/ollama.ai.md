@@ -25,15 +25,11 @@ Ollama.ai makes local LLMs accessible to everyone, whether you're looking to ena
 
 ### 🤔 Why should The AI Engineer care about Ollama.ai?
 
-- 1️⃣ Abstracts Complexity - Handles infrastructure so engineers focus on product capabilities, not ops.
-
-- 2️⃣ Privacy - Run models locally instead of sending data to third parties.
-
-- 3️⃣ Cost - Avoid paying for usage and egress bandwidth to cloud services.
-
-- 4️⃣ Latency - Ultra low latency responses running models on local GPUs.
-
-- 5️⃣ Customization - Easily tailor model behavior by modifying prompts.
+1. 🤓 Abstracts Complexity - Handles infrastructure so engineers focus on product capabilities, not ops.
+2. 🔒 Privacy - Run models locally instead of sending data to third parties.
+3. 💰 Cost - Avoid paying for usage and egress bandwidth to cloud services.
+4. ⚡️ Latency - Ultra low latency responses running models on local GPUs.
+5. 🔧 Customization - Easily tailor model behavior by modifying prompts.
 
 In summary, Ollama enables AI engineers to rapidly build and iterate language model-based applications without cloud vendor lock-in. By making local LLM deployment push-button simple across platforms, it unlocks creativity and innovation.
 
