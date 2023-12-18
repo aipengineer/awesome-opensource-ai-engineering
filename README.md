@@ -2,8 +2,6 @@
 Explore a curated collection of exceptional open-source libraries for generative AI for AI engineers meticulously reviewed or slated for review by The AI Engineer. Contribute your own projects to be considered for evaluation and inclusion in this dynamic repository dedicated to advancing the AI engineering discipline.
 
 # Libraries
-Certainly! Below is the updated list of links with the new format:
-
 * [Langfuse](libraries/langfuse/README.md)
 * [ZenML](libraries/zenml/README.md)
 * [MindsDB](libraries/mindsdb/README.md)
