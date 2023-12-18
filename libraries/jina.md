@@ -19,6 +19,13 @@ It lets you focus on your core logic and algorithms without worrying about infra
 Whether you want to serve an LLM with streaming or chain multiple microservices into an end-to-end pipeline, Jina provides the building blocks to make it seamless. Its Pythonic development experience alongside robust orchestration makes implementing advanced systems easy.
 
 ### 🤔 Why should The AI Engineer care about Jina?
+1. ⚡️ Productivity - Build and deploy models faster with robust microservices framework.
+2. 🔌 Flexibility - Hotswap components like models and data sources with no code change.
+3. 📡 Simplicity - Abstraction from infrastructure lets you focus on model logic.
+4. 🛡 Reliability - Advanced orchestration brings enterprise-grade availability and scale.
+5. 💰 Cost - Built-in optimizations like dynamic batching reduce serving expenditures.
+
+In summary, Jina provides the perfect blend of simplicity and depth for engineers to build reliable and scalable AI applications rapidly. With maximized leverage, engineers amplify their innovation capability dramatically.
 
 ## 📊 Jina Stats
 * 👷🏽‍♀️ Builders: [Han Xiao](https://www.linkedin.com/in/hxiao87/), [Joan Fontanals](https://www.linkedin.com/in/joanfontanalsmartinez/), [Nan Wang](https://www.linkedin.com/in/nanwang28/)

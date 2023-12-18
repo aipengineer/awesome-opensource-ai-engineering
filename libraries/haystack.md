@@ -26,6 +26,13 @@ Whether you want to perform question answering, answer generation, semantic docu
 Haystack has been battle-tested at scale by companies like Apple, Netflix, Nvidia and more. With the ability to fine-tune models and optimize search, Haystack provides the missing Lego pieces to build custom NLP solutions tailored to your domain.
 
 ### 🤔 Why should The AI Engineer care about Haystack?
+1. 🧩 Modularity - Flexible components and pipelines enable custom solutions tailored to specific needs.
+2. ⚡️ Productivity - 10x faster development cycles building robust NLP systems vs coding from scratch.
+3. 📡 Simplicity - Consistent API and abstractions minimize need to handle model complexities.
+4. 🔐 Governance - Annotation tools, evaluation scripts and other guardrails aid reliability.
+5. 👥 Community - Join practitioners collaborating to push state-of-the-art in industrial NLP.
+
+In summary, Haystack provides the essential, battle-tested building blocks for engineers to build tailored, scalable and governable natural language processing systems rapidly. By simplifying access to best practices, it elevates developer leverage for innovation.
 
 ## 📊 Haystack Stats:
 

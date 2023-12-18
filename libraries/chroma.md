@@ -25,6 +25,13 @@ Whether you want to build a conversational search engine, "ChatGPT for X" or any
 With support for custom embedding functions and a fully managed backend handling provisioning/scaling, Chroma delivers a delightful developer experience. Check out the documentation to get started!
 
 ### 🤔 Why should The AI Engineer care about Chroma?
+1. 📡 Simplicity - Zero config vector search and storage lets engineers focus on apps not infra.
+2. 🔌 Modularity - Plugs right into LangChain, LlamaIndex and other libraries with consistent API.
+3. ⚡ Performance - Designed for low latency querying needed in real-time LLM loops.
+4. 👥 Community - Be part of innovators building the future conversational interfaces.
+5. 🔬 Observability - Upcoming relevance scoring gives insight into model functionality.
+
+In summary, Chroma provides an essential and painless building block for engineers to integrate vector search into large language model applications. By abstracting complexity, it amplifies leverage for creating the next generation of AI-powered software.
 
 ## Chroma Stats
 * 👷🏽‍♀️ Builders: [Jeff Huber](https://www.linkedin.com/in/jeffchuber/), [Hammad Bashir](https://www.linkedin.com/in/hbashir/), [Luke VanderHart](https://www.linkedin.com/in/luke-vanderhart-270586170/), [Anton Troynikov](https://www.linkedin.com/in/antontroynikov/), Trayan Azarov

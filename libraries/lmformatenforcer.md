@@ -22,6 +22,13 @@ LM Enforcer is an open-source library that enforces precise output formats like 
 Whether you want to build an API backend that responds with structured data or reduces hallucinations, LM Enforcer equips models to handle precise formats reliably. By keeping models "in the loop", LM Enforcer balances structure with flexibility elegantly.
 
 ### 🤔 Why should The AI Engineer care about LM Format Enforcer?
+1. 📋 Output Control - Enforces precise text formats like JSON and regex from LLMs.
+2. 🔬 Observability - Logs token scores reveal model struggles from constraints.
+3. 🎯 Accuracy - Format compliance reduces costly invalid outputs.
+4. ⚙️ Compatibility - Works with HuggingFace, LangChain, LlamaIndex, and more.
+5. 🛡 Reliability - Critical for business apps needing structured data from models.
+
+In summary, LM Format Enforcer provides guardrails for engineers to build consistent and robust solutions needing structured outputs from language models. By guaranteeing format compliance, quality and governance increase dramatically.
 
 ## LM Format Enforcer Stats
 * 👷🏽‍♀️ Builders: [Noam Gat](https://www.linkedin.com/in/noamgat), [Benedikt Fuchs](https://www.linkedin.com/in/benedikt-fuchs-020a1b100/)

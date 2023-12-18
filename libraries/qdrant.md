@@ -22,8 +22,11 @@ Whether you want to build an intuitive search engine, shoppable feed, content di
 It delivers versatile tooling to apply constraints and business logic on similarities using its rich query interface. Check out the interactive demos and benchmark comparisons to see blazing fast performance first-hand!
 
 ### 🤔 Why should The AI Engineer care about Qdrant?
-
-
+1. 👨‍💻 It provides an easy-to-use API to build neural search applications quickly. Less time fussing with infrastructure means faster development.
+2. 🚀 It offers state-of-the-art speed for vector similarity search to power real-time recommendations and matching. Fast response times keep users engaged.
+3. ⚡️ It scales horizontally to handle growing data volumes cost efficiently. No need to overprovision hardware upfront. Add nodes as needed.
+4. 🧮 It enables filtering and business logic on top of vector search results. More flexibility to tailor the search experience.
+5. 🔒 It ensures high availability and data persistence through features like write-ahead logging. Applications remain operational 24/7.
 
 ## 📊 Qdrant Stats
 * 👷🏽‍♀️ Builders: Andrey Vasnetsov, Tim Visée, Ivan Pleshkov, Egor Ivkov, Roman Titov, Kacper Łukawski

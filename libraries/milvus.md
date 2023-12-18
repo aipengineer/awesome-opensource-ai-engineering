@@ -23,9 +23,11 @@ Milvus offers best-in-class performance, whether you want to build a conversatio
 Its componentized design delivers maximum flexibility to scale storage and computation separately. Robustness for real-time analytics use cases is baked in.
 
 ### 🤔 Why should The AI Engineer care about Milvus?
-
-
-
+1. 👉 It provides millisecond search on trillion vector datasets to enable fast retrieval and recommendations. This allows AI engineers to build scalable applications with real-time response. 🚀
+2. 👉 It offers simplified unstructured data management with rich APIs tailored for data science workflows. This makes it easier for AI engineers to work with embedding data at scale. 🧑‍💻
+3. 👉 It delivers consistent user experience across devices, allowing AI engineers to embed real-time search in any application. Whether working locally or in the cloud, the experience stays the same. 💻
+4. 👉 It has reliable built-in replication and failover to ensure business continuity. AI applications built with Milvus can continue serving users without disruption. 🆙
+5. 👉 It provides component-level scalability to handle growing data volumes cost efficiently. AI engineers can scale their Milvus deployment on demand. ⚡️
 
 ## 📊 Milvus Stats
 * 👷🏽‍♀️ Builders: Charles Xie, Frank Liu, Yujian Tang

@@ -24,6 +24,11 @@ Whether you want to build a conversational engine, recommendations system, or an
 It delivers production-grade tooling like index manipulation, robust querying constructs and caching right out of the box. The simple yet full-featured capabilities help minimize effort and cost.
 
 ### 🤔 Why should The AI Engineer care about RedisVL?
+1. 👩‍💻 It provides an easy-to-use Python client library to build vector similarity search applications quickly. Less time fussing with infrastructure means faster development. 🚀
+2. ⚡️ It leverages the speed and reliability of Redis to deliver high-performance vector search to power real-time recommendations and matching. Sub-millisecond response times keep users engaged.
+3. 🌈 It simplifies working with embeddings by integrating directly with top vectorization services like OpenAI, HuggingFace, and VertexAI. Create vectors without needing to run complex ML training jobs.
+4. 🧩 It enables hybrid search combining vectors, filters, and full-text search. More flexibility to tailor the search experience to your needs.
+5. 🔒 It ensures high availability and data persistence through Redis. Applications remain operational 24/7 thanks to Redis' built-in replication and persistence.
 
 ## 📊 RedisVL Stats
 * 👷🏽‍♀️ Builders: [Sam Partee](https://www.linkedin.com/in/sampartee/), [Tyler Hutcherson](https://www.linkedin.com/in/tyler-hutcherson/), Chayim Kirshen
@@ -36,7 +41,7 @@ It delivers production-grade tooling like index manipulation, robust querying co
 
 ## 🖇️ RedisVL Links
 * GitHub Repository: https://github.com/RedisVentures/RedisVL
-* Official Website: https://www.redisvl.com/i
+* Official Website: https://www.redisvl.com
 * Twitter account: https://twitter.com/Redisinc
 * Profile in The AI Engineer: https://github.com/theaiengineer/awesome-opensource-ai-engineering/blob/main/libraries/redisvl.md
 
