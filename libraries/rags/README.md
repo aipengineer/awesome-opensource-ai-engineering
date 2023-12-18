@@ -1,4 +1,5 @@
 # rags
+[![The AI Engineer presents # rags](rags_1920x192.png)]
 ## Overview
 RAGs lets you build your own "ChatGPT over data" in 3 steps: describe your task and data, configure parameters like top-k retrieval, then query your data via convo with the auto-generated RAG agent. 
 
@@ -50,3 +51,4 @@ In summary, RAGs artfully blends ease of use with advanced capabilities for swif
 ♻️ Repost this to help rags become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

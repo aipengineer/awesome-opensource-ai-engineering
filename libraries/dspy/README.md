@@ -1,4 +1,5 @@
 # DSPy
+[![The AI Engineer presents DSPy](dspy_1920x192.png)]
 ## Overview
 DSPy lets you program pipelines with foundation models in Python without manual prompt engineering. It compiles your code into optimized prompts or finetunes tailored to your task, data and models. #AI
 
@@ -55,3 +56,4 @@ In summary, DSPy greatly accelerates the process of constructing dependable, sca
 ♻️ Repost this to help DSPy become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

@@ -1,5 +1,5 @@
 # Ludwig
-
+[![The AI Engineer presents Ludwig](ludwig_1920x192.png)]
 ## Overview
 Ludwig is an open source low-code framework for building custom AI models like LLMs easily. Just declare model architecture in YAML. Supports multi-task learning, distributed training, model exporting & more.
 
@@ -46,4 +46,3 @@ In summary, Ludwig brings unprecedented productivity to engineers through radica
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
-

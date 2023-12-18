@@ -1,4 +1,5 @@
 # Ragas
+[![The AI Engineer presents Ragas](ragas_1920x192.png)]
 ## Overview
 Ragas helps evaluate and monitor Retrieval Augmented Generation (RAG) pipelines built with large language models. Provides metrics quantifying performance on aspects like hallucination, retrieval quality. Enables data-driven optimization.
 
@@ -51,3 +52,4 @@ In summary, by providing a comprehensive toolkit for evaluation and monitoring, 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about Ragas and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

@@ -1,5 +1,5 @@
 # MindsDB
-
+[![The AI Engineer presents MindsDB](mindsdb_1920x192.png)]
 ## Overview
 MindsDB is an AI automation platform connecting data sources to LLMs & ML models for automated predictions. Use SQL to query. Plug predictions into apps and workflows. Unified interface streamlines building & running AI applications at scale.
 
@@ -55,3 +55,4 @@ With turnkey capabilities to connect data, models and outputs in automated workf
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about $name and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

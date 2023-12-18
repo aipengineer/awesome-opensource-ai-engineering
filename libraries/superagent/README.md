@@ -1,4 +1,5 @@
 # Superagent
+[![The AI Engineer presents Superagent](superagent_1920x192.png)]
 ## Overview
 Superagent is an open framework for easily integrating production-ready AI assistants & chatbots into any app in minutes. Handles infra, data, models so you can focus on capabilities. #AI
 

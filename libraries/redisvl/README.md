@@ -1,4 +1,5 @@
 # RedisVL
+[![The AI Engineer presents RedisVL](redisvl_1920x192.png)]
 ## Overview
 RedisVL provides a Python client library to leverage Redis as a vector database. Features semantic search, robust indexing, vector creation via OpenAI/HF/GCP, filtering, JSON storage, CLI & more. Simple yet powerful.
 
@@ -49,3 +50,5 @@ It delivers production-grade tooling like index manipulation, robust querying co
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+
+

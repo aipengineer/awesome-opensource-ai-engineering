@@ -1,4 +1,5 @@
 # MetaGPT
+[![The AI Engineer presents MetaGPT](metagpt_1920x192.png)]
 ## Overview
 MetaGPT lets you assign different roles to GPTs and orchestrate them into a collaborative software entity that can handle complex tasks end-to-end, from requirements to deployment.
 
@@ -62,3 +63,4 @@ In summary, MetaGPT provides the perfect blend of power and simplicity for engin
 ♻️ Repost this to help MetaGPT become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

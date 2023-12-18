@@ -1,4 +1,5 @@
 # Chroma
+[![The AI Engineer presents Chroma](chroma_1920x192.png)]
 ## Overview
 Chroma is the open-source embedding database that makes knowledge, facts & skills pluggable for LLMs. It simplifies building LLM apps with tools to store, embed, search vectors and analyze data. Supports Python, JavaScript, integrates with LangChain & more.
 

@@ -1,4 +1,5 @@
 # Milvus
+[![The AI Engineer presents Milvus](milvus_1920x192.png)]
 ## Overview
 Milvus is an open-source cloud-native vector database built for high-performance embedding similarity search & AI apps. Index vectors on a trillion scale. Component-based architecture optimized for the cloud with rich tooling.
 
@@ -50,3 +51,5 @@ Its componentized design delivers maximum flexibility to scale storage and compu
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+
+

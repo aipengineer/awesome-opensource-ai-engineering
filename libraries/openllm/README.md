@@ -1,5 +1,5 @@
 # OpenLLM
-
+[![The AI Engineer presents # OpenLLM](openllm_1920x192.png)]
 ## Overview
 OpenLLM - AI library of the day: OpenLLM by BentoML is an open platform for operating any LLM in production. Fine-tune, serve, deploy & monitor LLMs like GPT-3 with ease. Supports streaming, adapters, and multi-GPUs & integrates with BentoML, LlamaIndex, LangChain & more.
 
@@ -42,3 +42,4 @@ In summary, OpenLLM provides all the infrastructure to go from idea to productio
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

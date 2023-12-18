@@ -1,5 +1,5 @@
 # Langfuse
-
+[![The AI Engineer presents Langfuse](langfuse_1920x192.png)]
 ## Overview
 Langfuse is open source observability & analytics for LLM apps - trace executions, debug issues caused by model interactions, analyze token usage, latency & quality. Integrates with Langchain, OpenAI SDK. Optimized for production.
 

@@ -1,4 +1,5 @@
 # Qdrant
+[![The AI Engineer presents Qdrant](qdrant_1920x192.png)]
 ## Overview
 Qdrant is a blazing fast vector database and search engine optimized for embedding similarity queries. Filter results on rich payload data types. Scales distributed. Integrates with LangChain, LlamaIndex, OpenAI & more. Code in Rust.
 ## Description
@@ -49,6 +50,3 @@ It delivers versatile tooling to apply constraints and business logic on similar
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
-
-
-

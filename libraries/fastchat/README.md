@@ -1,4 +1,5 @@
 # FastChat
+[![The AI Engineer presents FastChat](fastchat_1920x192.png)]
 ## Overview
 FastChat is an open platform for training, benchmarking, and serving chatbots with LLMs. It offers an OpenAI-compatible REST API, WebUI, CLI, and SOTA models like Vicuna and evaluation tools.
 
@@ -54,3 +55,4 @@ In summary, FastChat accelerates building real-world chatbot applications throug
 ♻️ Repost this to help FastChat become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

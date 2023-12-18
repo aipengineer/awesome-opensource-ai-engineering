@@ -1,4 +1,5 @@
 # Ollama.ai
+[![The AI Engineer presents Ollama.ai](ollama_1920x192.png)]
 ## Overview
 Ollama.ai lets you easily run open-source LLMs like Llama2 locally on Linux, Mac, & WSL2 with optimized GPU setup & management. Pull models in one command, customize behavior via prompts, and build applications leveraging large language capabilities.
 
@@ -59,3 +60,4 @@ In summary, Ollama enables AI engineers to rapidly build and iterate language mo
 ♻️ Repost this to help Ollama.ai become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

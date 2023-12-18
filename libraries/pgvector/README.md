@@ -1,4 +1,5 @@
 # pgvector
+[![The AI Engineer presents pgvector](pgvector_1920x192.png)]
 ## Overview
 pgvector is a Postgres extension for vector similarity search. Store vectors in SQL tables. Then find neighbors by distance functions like L2, inner product & cosine. Supports exact & approximate NN. All within your existing data warehouse! 
 
@@ -51,3 +52,4 @@ So in summary, pgvector simplifies the data side for AI engineers by tightly cou
 ♻️ Repost this to help pgvector become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

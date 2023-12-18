@@ -1,4 +1,5 @@
 # unsloth
+[![The AI Engineer presents unsloth]( unsloth_1920x192.png)]
 ## Overview
 Unsloth turbocharges LLM fine-tuning, making it up to 30x faster & using 60% less memory. Supports NVIDIA, Intel, AMD GPUs. Even the free open source version trains 2-5x faster.
 
@@ -56,4 +57,6 @@ In summary, Unsloth gives AI engineers the two most precious resources - time an
 ♻️ Repost this to help unsloth become more popular. Support AI Open-Source Libraries!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+
+
 

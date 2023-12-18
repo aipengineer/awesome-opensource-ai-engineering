@@ -1,4 +1,5 @@
 # Axflow
+[![The AI Engineer presents Axflow](axflow_1920x192.png)]
 ## Overview
 Axflow is a modular TypeScript framework for robust AI apps. Includes models SDK, axgen for connecting data to LLMs, axeval for output quality, and more. Empowers code-first flexibility & control.
 

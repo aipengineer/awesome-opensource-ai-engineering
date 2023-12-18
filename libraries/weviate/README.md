@@ -1,4 +1,5 @@
-# Weviate
+# Weaviate
+[![The AI Engineer presents Weaviate]( weviate_1920x192.png)]
 ## Overview
 Weaviate is a fast, scalable, cloud-native open-source vector database for building semantic search apps powered by state-of-the-art AI models. Vectorize and index any data type. Integrates with LangChain, LlamaIndex, and more.
 
@@ -22,9 +23,14 @@ Weaviate is an open source vector database designed for building customized sema
 
 Whether you want to build a semantic search engine, conversational app or recommendations system powered by vectors, Weaviate equipped with HNSW index provides the foundation. Robust and optimized for scale in the cloud, its storage separates objects and vectors for versatility. The modular architecture makes customizing for innovative use cases smooth.
 
-### 🤔 Why should The AI Engineer care about Weviate?
+### 🤔 Why should The AI Engineer care about Weaviate?
+1. 👩‍💻 It provides an easy-to-use platform to build AI applications quickly, without needing to create boilerplate code or manage infrastructure. Less time on setup means faster development. 🚀
+2. ⚡️ It offers lightning-fast vector similarity search to power real-time recommendations and matching. Sub-millisecond response times keep users engaged.
+3. 🧩 It enables hybrid search combining vectors, filters, and full-text search for flexibility to tailor the search experience. More options to build sophisticated use cases.
+4. 🌈 It integrates nicely with popular services like OpenAI and Hugging Face to vectorize data. No need to run complex ML training jobs.
+5. 📈 It is designed to scale from prototyping to full production workloads. Engineers can take their AI apps all the way from idea to global launch.
 
-## 📊 Weviate Stats
+## 📊 Weaviate Stats
 * 👷🏽‍♀️ Builders: [Etienne Dilocker](https://www.linkedin.com/in/etienne-dilocker-60727b175/), [Bob van Luijt](https://www.linkedin.com/in/bobvanluijt/), [Dirk Kulawiak](https://www.linkedin.com/in/dirk-kulawiak/), [Marcin Antas](https://www.linkedin.com/in/antasmarcin/), [Connor Shorten](https://www.linkedin.com/in/connor-shorten-34923a178/)
 * 👩🏽‍💻 Contributors: 75
 * 💫 GitHub Stars: 8.3k
@@ -33,7 +39,7 @@ Whether you want to build a semantic search engine, conversational app or recomm
 * 🪪 License: BSD-3-Clause
 * 🔗 Links: Below 👇🏽
 
-## 🖇️ Weviate Links
+## 🖇️ Weaviate Links
 * GitHub Repository: https://github.com/weaviate/weaviate
 * Official Website: https://weaviate.io/
 * Twitter account: https://twitter.com/weaviate_io
@@ -44,3 +50,4 @@ Whether you want to build a semantic search engine, conversational app or recomm
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

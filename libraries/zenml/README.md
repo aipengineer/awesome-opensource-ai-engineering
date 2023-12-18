@@ -1,5 +1,5 @@
 # ZenML
-
+[![The AI Engineer presents ZenML](zenml_1920x192.png)]
 ## Overview
 ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines. Decouples infrastructure from code for effective collaboration. Integrates with 50+ MLOps tools.
 
@@ -58,3 +58,4 @@ By providing an intuitive platform to go from conception to production efficient
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for more about ZenML and daily insights tailored to AI engineers. Subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
+

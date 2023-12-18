@@ -1,4 +1,5 @@
 # Autogen
+[![The AI Engineer presents Autogen](autogen_1920x192.png)]
 ## Overview
 Autogen enables building next-gen LLM apps via multi-agent conversations to accomplish tasks. Customizable & conversable agents flexibly combine LLMs, human input & tools. Open source framework simplifies orchestration, automation & optimization of complex LLM workflows.
 
@@ -55,5 +56,3 @@ In summary, AutoGen provides the perfect blend of power and simplicity for engin
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
 ⚠️ If you want me to highlight your favorite AI library, open-source or not, please share it in the comments section!
-
-

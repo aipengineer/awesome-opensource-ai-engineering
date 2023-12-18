@@ -1,4 +1,5 @@
 # Marvin
+[![The AI Engineer presents Marvin](marvin_1920x192.png)]
 ## Overview
 Marvin is an AI engineering framework that lets you build natural language interfaces powered by LLMs as regular Python functions. Just add a decorator and docstring - no manual prompting needed! #AI
 
