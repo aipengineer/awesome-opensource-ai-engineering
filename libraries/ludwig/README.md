@@ -26,7 +26,7 @@ With Ludwig, you get the best of simplicity through configuration AND extreme cu
 4. 🔌 Integrations - Works out-of-the-box with HuggingFace, Ray, and other libs.
 5. 🛡 Reliability - Battle-tested foundations like PyTorch bring enterprise-grade robustness.
 
-In summary, Ludwig brings unprecedented productivity to engineers through radically simplified access to best practices in deep learning. By handling complexity, it maximizes innovation capability.
+In summary, Ludwig brings productivity to engineers through radically simplified access to best practices in deep learning. By handling complexity, it maximizes innovation capability.
 
 ## 📊 Ludwig Stats
 - 👷🏽‍♀️ Builders: Piero Molino, Travis Addair, Devvret Rishi, Justin Zhao, 
