@@ -1,5 +1,5 @@
 # Haystack
-[![The AI Engineer presents Haystack](haystack_1920x192.png)]
+![The AI Engineer presents Haystack](haystack_1920x192.png)
 ## Overview
 Haystack is an end-to-end open-source NLP framework to build apps powered by LLMs and search. Supports question answering, document retrieval, decision making & more on your data. Modular and customizable.
 

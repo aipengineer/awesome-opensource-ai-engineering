@@ -1,5 +1,5 @@
 # SuperDuperDB
-[![The AI Engineer presents SuperDuperDB](superduperdb_1920x192.png)]
+![The AI Engineer presents SuperDuperDB](superduperdb_1920x192.png)
 ## Overview
 SuperDuperDB helps integrate any ML models & AI APIs into your databases for streaming inference, training & vector search. No complex pipelines needed. Just simple Python.
 

@@ -1,5 +1,5 @@
 # LM Format Enforcer
-[![The AI Engineer presents LM Format Enforcer](lmformatenforcer_1920x192.png)]
+![The AI Engineer presents LM Format Enforcer](lmformatenforcer_1920x192.png)
 ## Overview
 LM Enforcer ensures precise output formats from language models using token filtering. Supports JSON Schema, regex, batching/beam search. Integrates with HuggingFace, LangChain, etc. Lets models control whitespace & ordering to reduce hallucinations.
 

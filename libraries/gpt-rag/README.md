@@ -1,5 +1,5 @@
 # GPT-RAG
-[![The AI Engineer presents GPT-RAG](gpt-rag_1920x192.png)]
+![The AI Engineer presents GPT-RAG](gpt-rag_1920x192.png)
 ## Overview
 GPT-RAG offers a robust, enterprise-grade architecture for RAG leveraging Azure OpenAI. It ensures scalability, security, and reliability for integrating LLMs into business workflows.
 

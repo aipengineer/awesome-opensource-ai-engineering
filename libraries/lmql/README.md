@@ -1,5 +1,5 @@
 # LMQL
-[![The AI Engineer presents LMQL](lmql_1920x192.png)]
+![The AI Engineer presents LMQL](lmql_1920x192.png)
 ## Overview
 LMQL brings programming to LLM interaction. Write Python code interwoven with prompts. Add constraints, types & control flow. Supports beam search & other advanced decoding. Makes prompting modular, expressive & portable across LLMs.
 

@@ -1,5 +1,5 @@
 # Autogen
-[![The AI Engineer presents Autogen](autogen_1920x192.png)]
+![The AI Engineer presents Autogen](autogen_1920x192.png)
 ## Overview
 Autogen enables building next-gen LLM apps via multi-agent conversations to accomplish tasks. Customizable & conversable agents flexibly combine LLMs, human input & tools. Open source framework simplifies orchestration, automation & optimization of complex LLM workflows.
 

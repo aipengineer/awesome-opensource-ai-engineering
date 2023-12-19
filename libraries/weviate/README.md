@@ -1,5 +1,5 @@
 # Weaviate
-[![The AI Engineer presents Weaviate]( weviate_1920x192.png)]
+![The AI Engineer presents Weaviate]( weviate_1920x192.png)
 ## Overview
 Weaviate is a fast, scalable, cloud-native open-source vector database for building semantic search apps powered by state-of-the-art AI models. Vectorize and index any data type. Integrates with LangChain, LlamaIndex, and more.
 

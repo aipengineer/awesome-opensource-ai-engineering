@@ -1,5 +1,5 @@
 # RedisVL
-[![The AI Engineer presents RedisVL](redisvl_1920x192.png)]
+![The AI Engineer presents RedisVL](redisvl_1920x192.png)
 ## Overview
 RedisVL provides a Python client library to leverage Redis as a vector database. Features semantic search, robust indexing, vector creation via OpenAI/HF/GCP, filtering, JSON storage, CLI & more. Simple yet powerful.
 

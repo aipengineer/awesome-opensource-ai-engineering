@@ -1,5 +1,5 @@
 # LiteLLM
-[![The AI Engineer presents LiteLLM](litellm_1920x192.png)]
+![The AI Engineer presents LiteLLM](litellm_1920x192.png)
 ## Overview
 LiteLLM standardizes inputs and outputs across LLM APIs like OpenAI, Azure, Anthropic, etc. It lets you call any LLM using a consistent OpenAI-like format, with built-in streaming, logging, and load balancing between providers.
 

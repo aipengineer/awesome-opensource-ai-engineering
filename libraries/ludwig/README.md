@@ -1,5 +1,5 @@
 # Ludwig
-[![The AI Engineer presents Ludwig](ludwig_1920x192.png)]
+![The AI Engineer presents Ludwig](ludwig_1920x192.png)
 ## Overview
 Ludwig is an open source low-code framework for building custom AI models like LLMs easily. Just declare model architecture in YAML. Supports multi-task learning, distributed training, model exporting & more.
 

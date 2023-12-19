@@ -1,5 +1,5 @@
 # llamafile
-[![The AI Engineer presents llamafile](llamafile_1920x192.png)]
+![The AI Engineer presents llamafile](llamafile_1920x192.png)
 ## Overview
 llamafile lets you run open-source LLMs locally on your computer in one single executable file. No install needed. Works across operating systems and hardware without modifications. Makes LLMs dramatically more accessible.
 

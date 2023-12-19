@@ -1,5 +1,5 @@
 # pgvector
-[![The AI Engineer presents pgvector](pgvector_1920x192.png)]
+![The AI Engineer presents pgvector](pgvector_1920x192.png)
 ## Overview
 pgvector is a Postgres extension for vector similarity search. Store vectors in SQL tables. Then find neighbors by distance functions like L2, inner product & cosine. Supports exact & approximate NN. All within your existing data warehouse! 
 

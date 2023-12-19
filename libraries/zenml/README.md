@@ -1,5 +1,5 @@
 # ZenML
-[![The AI Engineer presents ZenML](zenml_1920x192.png)]
+![The AI Engineer presents ZenML](zenml_1920x192.png)
 ## Overview
 ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines. Decouples infrastructure from code for effective collaboration. Integrates with 50+ MLOps tools.
 

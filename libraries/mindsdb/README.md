@@ -1,5 +1,5 @@
 # MindsDB
-[![The AI Engineer presents MindsDB](mindsdb_1920x192.png)]
+![The AI Engineer presents MindsDB](mindsdb_1920x192.png)
 ## Overview
 MindsDB is an AI automation platform connecting data sources to LLMs & ML models for automated predictions. Use SQL to query. Plug predictions into apps and workflows. Unified interface streamlines building & running AI applications at scale.
 

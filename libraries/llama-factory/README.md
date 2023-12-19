@@ -1,5 +1,5 @@
 # LLaMa-Factory
-[![The AI Engineer presents LLaMa-Factory](llama-factory_1920x192.png)]
+![The AI Engineer presents LLaMa-Factory](llama-factory_1920x192.png)
 ## Overview
 LLaMA Factory lets you easily fine-tune & train open-source LLMs like LLaMA, ChatGLM, & Falcon via a web UI. Supports techniques like LoRA for 3.7x faster training than P-tuning. 
 

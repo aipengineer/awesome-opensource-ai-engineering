@@ -1,5 +1,5 @@
 # Jina
-[![The AI Engineer presents Jina](jina_1920x192.png)]
+![The AI Engineer presents Jina](jina_1920x192.png)
 ## Overview
 Jina lets you build and serve multimodal AI services and pipelines that scale, with streaming, batching & protocols like gRPC. Easy transition from local to orchestration on Docker, Kubernetes. Focus on logic while Jina handles infrastructure.
 

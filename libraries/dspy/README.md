@@ -1,5 +1,5 @@
 # DSPy
-[![The AI Engineer presents DSPy](dspy_1920x192.png)]
+![The AI Engineer presents DSPy](dspy_1920x192.png)
 ## Overview
 DSPy lets you program pipelines with foundation models in Python without manual prompt engineering. It compiles your code into optimized prompts or finetunes tailored to your task, data and models. #AI
 

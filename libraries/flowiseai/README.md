@@ -1,5 +1,5 @@
 # Flowise AI
-[![The AI Engineer presents Flowise AI](flowiseai_1920x192.png)]
+![The AI Engineer presents Flowise AI](flowiseai_1920x192.png)
 ## Overview
 [FlowiseAI (YC S23)](https://www.linkedin.com/company/flowiseai/) is an open-source drag-and-drop tool that allows anyone to build customized large language models (LLM) visual flows and backends for question-answering applications, summarization, and analysis.
 

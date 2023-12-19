@@ -1,5 +1,5 @@
 # Milvus
-[![The AI Engineer presents Milvus](milvus_1920x192.png)]
+![The AI Engineer presents Milvus](milvus_1920x192.png)
 ## Overview
 Milvus is an open-source cloud-native vector database built for high-performance embedding similarity search & AI apps. Index vectors on a trillion scale. Component-based architecture optimized for the cloud with rich tooling.
 

@@ -1,5 +1,5 @@
 # rags
-[![The AI Engineer presents # rags](rags_1920x192.png)]
+![The AI Engineer presents # rags](rags_1920x192.png)
 ## Overview
 RAGs lets you build your own "ChatGPT over data" in 3 steps: describe your task and data, configure parameters like top-k retrieval, then query your data via convo with the auto-generated RAG agent. 
 

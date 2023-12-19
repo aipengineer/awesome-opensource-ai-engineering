@@ -1,5 +1,5 @@
 # LLM-VM
-[![The AI Engineer presents LLM-VM](llm-vm_1920x192.png)]
+![The AI Engineer presents LLM-VM](llm-vm_1920x192.png)
 ## Overview
 LLM-VM lets developers easily build apps powered by LLMs without managing infra. Just provide data/APIs, and it handles prompt engineering, fine-tuning, load balancing between models, and more!
 

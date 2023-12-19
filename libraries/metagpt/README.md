@@ -1,5 +1,5 @@
 # MetaGPT
-[![The AI Engineer presents MetaGPT](metagpt_1920x192.png)]
+![The AI Engineer presents MetaGPT](metagpt_1920x192.png)
 ## Overview
 MetaGPT lets you assign different roles to GPTs and orchestrate them into a collaborative software entity that can handle complex tasks end-to-end, from requirements to deployment.
 

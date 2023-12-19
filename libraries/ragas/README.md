@@ -1,5 +1,5 @@
 # Ragas
-[![The AI Engineer presents Ragas](ragas_1920x192.png)]
+![The AI Engineer presents Ragas](ragas_1920x192.png)
 ## Overview
 Ragas helps evaluate and monitor Retrieval Augmented Generation (RAG) pipelines built with large language models. Provides metrics quantifying performance on aspects like hallucination, retrieval quality. Enables data-driven optimization.
 

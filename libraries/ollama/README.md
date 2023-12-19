@@ -1,5 +1,5 @@
 # Ollama.ai
-[![The AI Engineer presents Ollama.ai](ollama_1920x192.png)]
+![The AI Engineer presents Ollama.ai](ollama_1920x192.png)
 ## Overview
 Ollama.ai lets you easily run open-source LLMs like Llama2 locally on Linux, Mac, & WSL2 with optimized GPU setup & management. Pull models in one command, customize behavior via prompts, and build applications leveraging large language capabilities.
 
