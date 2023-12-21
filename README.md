@@ -1,5 +1,7 @@
-# Awesome Open Source Libraries for AI Engineering
-Explore a curated collection of exceptional open-source libraries for generative AI for AI engineers meticulously reviewed or slated for review by The AI Engineer. Contribute your own projects to be considered for evaluation and inclusion in this dynamic repository dedicated to advancing the AI engineering discipline.
+# Awesome Open Source Libraries for the Modern AI Stack - 🌽MAIS 
+Explore a curated collection of exceptional open-source libraries part of the Modern AI Stack (🌽MAIS) for generative AI for AI engineers meticulously reviewed or slated for review by The AI Engineer. 
+
+Contribute your own projects to be considered for inclusion!
 
 # Libraries
 * [Langfuse](libraries/langfuse/README.md)
@@ -35,6 +37,10 @@ Explore a curated collection of exceptional open-source libraries for generative
 * [MetaGPT](libraries/metagpt/README.md)
 * [GPT-RAG](libraries/gpt-rag/README.md)
 * [FastChat](libraries/fastchat/README.md)
+* [guidance](libraries/guidance/README.md)
+* [MiniChain](libraries/minichain/README.md)
+* [GPT4ALL](libraries/gpt4all/README.md)
+
 
 
 
