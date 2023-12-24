@@ -40,6 +40,9 @@ Contribute your own projects to be considered for inclusion!
 * [guidance](libraries/guidance/README.md)
 * [MiniChain](libraries/minichain/README.md)
 * [GPT4ALL](libraries/gpt4all/README.md)
+* [Vectorlink](libraries/vectorlink/README.md)
+* [vLLM](libraries/vllm/README.md)
+* [gpt-crawler](libraries/gpt-crawler/README.md)
 
 
 
