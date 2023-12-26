@@ -43,7 +43,8 @@ Contribute your own projects to be considered for inclusion!
 * [Vectorlink](libraries/vectorlink/README.md)
 * [vLLM](libraries/vllm/README.md)
 * [gpt-crawler](libraries/gpt-crawler/README.md)
-* [gpt-crawler](libraries/postgresml/README.md)
+* [PostgresML](libraries/postgresml/README.md)
+* [ChatHub](libraries/chathub/README.md)
 
 
 
