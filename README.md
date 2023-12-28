@@ -45,6 +45,8 @@ Contribute your own projects to be considered for inclusion!
 * [gpt-crawler](libraries/gpt-crawler/README.md)
 * [PostgresML](libraries/postgresml/README.md)
 * [ChatHub](libraries/chathub/README.md)
+* [LM Evaluation Harness](libraries/lm-evaluation-harness/README.md)
+* [Vald](libraries/vald/README.md)
 
 
 
