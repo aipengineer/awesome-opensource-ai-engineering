@@ -47,7 +47,8 @@ Contribute your own projects to be considered for inclusion!
 * [ChatHub](libraries/chathub/README.md)
 * [LM Evaluation Harness](libraries/lm-evaluation-harness/README.md)
 * [Vald](libraries/vald/README.md)
-
+* [Marco](libraries/marqo/README.md)
+* [Llama 2](libraries/llama/README.md)
 
 
 
