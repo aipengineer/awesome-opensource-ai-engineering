@@ -50,6 +50,7 @@ Contribute your own projects to be considered for inclusion!
 * [Marco](libraries/marqo/README.md)
 * [Llama 2](libraries/llama/README.md)
 * [LLaMA.cpp](libraries/llama.cpp/README.md)
+* [GPT-Engineer](libraries/gpt-engineer/README.md)
 
 
 
