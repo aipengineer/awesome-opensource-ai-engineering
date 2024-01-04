@@ -51,7 +51,8 @@ Contribute your own projects to be considered for inclusion!
 * [Llama 2](libraries/llama/README.md)
 * [LLaMA.cpp](libraries/llama.cpp/README.md)
 * [GPT-Engineer](libraries/gpt-engineer/README.md)
-
+* [FaceSwap](libraries/faceswap/README.md)
+* [GPT4free](libraries/gpt4free/README.md)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
