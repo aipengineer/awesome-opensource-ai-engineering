@@ -53,6 +53,7 @@ Contribute your own projects to be considered for inclusion!
 * [GPT-Engineer](libraries/gpt-engineer/README.md)
 * [FaceSwap](libraries/faceswap/README.md)
 * [GPT4free](libraries/gpt4free/README.md)
+* [Whisper](libraries/whisper/README.md)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
