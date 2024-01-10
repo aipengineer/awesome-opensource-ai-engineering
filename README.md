@@ -58,6 +58,7 @@ Contribute your own projects to be considered for inclusion!
 * [Stable Difussion WebUI](libraries/stabledifussionwebui/README.md)
 * [Transformers](libraries/transformers/README.md)
 * [AutoGPT](libraries/autogpt/README.md)
+* [Continue](libraries/continue/README.md)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
