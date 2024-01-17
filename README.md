@@ -62,6 +62,7 @@ Contribute your own projects to be considered for inclusion!
 * [Gateway](libraries/gateway/README.md)
 * [CrewAI](libraries/crewai/README.md)
 * [Danswer](libraries/danswer/README.md)
+* [Tabby](libraries/tabby/README.md)
 
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
