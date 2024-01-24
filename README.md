@@ -65,7 +65,7 @@ Contribute your own projects to be considered for inclusion!
 * [Tabby](libraries/tabby/README.md)
 * [SkyPilot](libraries/skypilot/README.md)
 * [ColossalAI](libraries/colossalai/README.md)
-
+* [Functionary](libraries/functionary/README.md)
 
 🧙🏽 Follow [The AI Engineer](https://www.linkedin.com/company/theaiengineer/) for daily insights tailored to AI engineers and subscribe to our [newsletter](http://theaiengineerco.substack.com). We are the AI community for hackers!
 
